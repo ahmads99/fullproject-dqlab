@@ -1,0 +1,15 @@
+pandas 
+numpy 
+matplotlib 
+seaborn
+scikit-learn
+imblearn
+emoji
+nltk
+Sastrawi 
+deep-translator
+openpyxl
+pipeline
+torch
+TextBlob
+wordcloud
