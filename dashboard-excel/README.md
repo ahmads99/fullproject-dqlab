@@ -28,7 +28,7 @@ Data dummy e-commerce disiapkan menggunakan Python dan mencakup 7 tabel utama:
 - **Excel**: Dashboard interaktif akhir
 
 ## 📈 Output
-File `Dashboard_Ecommerce_Analysis.xlsx` berisi:
+File `portofolio-excel.xlsx =sheet'dashboard'` berisi:
 - Visualisasi penjualan & performa produk
 - Analisis loyalitas pelanggan & metode pembayaran
 - Grafik tren, bar chart, scatter plot, dan pie chart
