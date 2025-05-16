@@ -1,0 +1,1501 @@
+,product_id,product_name,category,stock_quantity,warehouse_location,stock_status,inventory_value,date_updated
+0,PRD0000,Produk_0,Makanan & Minuman,101,Gudang A,Tersedia,2631039.51,2025-05-15
+1,PRD0001,Produk_1,Kesehatan,353,Gudang C,Tersedia,564931.65,2025-05-13
+2,PRD0002,Produk_2,Peralatan Rumah Tangga,11,Gudang A,Tersedia,4342164.78,2025-05-04
+3,PRD0003,Produk_3,Kesehatan,274,Gudang C,Habis,1493834.04,2025-05-02
+4,PRD0004,Produk_4,Kesehatan,100,Gudang C,Tersedia,821064.56,2025-05-02
+5,PRD0005,Produk_5,Pakaian,43,Gudang A,Habis,3381350.33,2025-05-09
+6,PRD0006,Produk_6,Peralatan Rumah Tangga,442,Gudang C,Tersedia,200050.64,2025-05-01
+7,PRD0007,Produk_7,Peralatan Rumah Tangga,304,Gudang A,Tersedia,3103643.14,2025-05-12
+8,PRD0008,Produk_8,Peralatan Rumah Tangga,444,Gudang B,Segera Habis,3494010.17,2025-05-07
+9,PRD0009,Produk_9,Kesehatan,16,Gudang B,Tersedia,1082433.49,2025-05-11
+10,PRD0010,Produk_10,Makanan & Minuman,329,Gudang B,Tersedia,219400.73,2025-05-14
+11,PRD0011,Produk_11,Peralatan Rumah Tangga,56,Gudang B,Tersedia,1824590.34,2025-05-03
+12,PRD0012,Produk_12,Otomotif,310,Gudang C,Tersedia,501985.21,2025-05-03
+13,PRD0013,Produk_13,Kesehatan,496,Gudang A,Tersedia,591224.47,2025-05-02
+14,PRD0014,Produk_14,Pakaian,302,Gudang A,Tersedia,1278763.54,2025-05-14
+15,PRD0015,Produk_15,Makanan & Minuman,11,Gudang A,Tersedia,1484384.94,2025-05-10
+16,PRD0016,Produk_16,Otomotif,317,Gudang B,Segera Habis,2654552.0,2025-05-06
+17,PRD0017,Produk_17,Otomotif,79,Gudang B,Tersedia,3395175.51,2025-05-13
+18,PRD0018,Produk_18,Pakaian,215,Gudang A,Tersedia,2967926.99,2025-05-10
+19,PRD0019,Produk_19,Makanan & Minuman,338,Gudang B,Tersedia,750318.08,2025-05-02
+20,PRD0020,Produk_20,Kesehatan,263,Gudang A,Segera Habis,868709.3,2025-05-10
+21,PRD0021,Produk_21,Elektronik,478,Gudang A,Tersedia,4395058.56,2025-05-15
+22,PRD0022,Produk_22,Makanan & Minuman,148,Gudang A,Tersedia,2796178.05,2025-05-04
+23,PRD0023,Produk_23,Pakaian,80,Gudang A,Tersedia,4350989.79,2025-05-10
+24,PRD0024,Produk_24,Otomotif,214,Gudang A,Tersedia,1864017.09,2025-05-09
+25,PRD0025,Produk_25,Kesehatan,484,Gudang A,Habis,3075856.04,2025-05-09
+26,PRD0026,Produk_26,Makanan & Minuman,373,Gudang A,Habis,2623080.45,2025-05-06
+27,PRD0027,Produk_27,Elektronik,463,Gudang B,Tersedia,1602426.21,2025-05-13
+28,PRD0028,Produk_28,Elektronik,197,Gudang A,Tersedia,2354877.71,2025-05-04
+29,PRD0029,Produk_29,Peralatan Rumah Tangga,199,Gudang A,Tersedia,2517429.48,2025-05-07
+30,PRD0030,Produk_30,Peralatan Rumah Tangga,24,Gudang B,Segera Habis,1011847.16,2025-05-14
+31,PRD0031,Produk_31,Pakaian,465,Gudang B,Segera Habis,1581901.76,2025-05-01
+32,PRD0032,Produk_32,Makanan & Minuman,88,Gudang B,Tersedia,3959134.66,2025-05-12
+33,PRD0033,Produk_33,Makanan & Minuman,267,Gudang A,Habis,4579783.31,2025-05-04
+34,PRD0034,Produk_34,Otomotif,142,Gudang C,Habis,1805372.53,2025-05-05
+35,PRD0035,Produk_35,Otomotif,58,Gudang C,Tersedia,1541791.69,2025-05-08
+36,PRD0036,Produk_36,Otomotif,409,Gudang B,Tersedia,984033.85,2025-05-12
+37,PRD0037,Produk_37,Peralatan Rumah Tangga,488,Gudang C,Tersedia,3395670.93,2025-05-02
+38,PRD0038,Produk_38,Makanan & Minuman,364,Gudang B,Habis,1622267.51,2025-05-12
+39,PRD0039,Produk_39,Makanan & Minuman,25,Gudang A,Segera Habis,4938870.2,2025-05-05
+40,PRD0040,Produk_40,Elektronik,46,Gudang C,Habis,1635167.16,2025-05-06
+41,PRD0041,Produk_41,Peralatan Rumah Tangga,287,Gudang A,Habis,1976738.87,2025-05-05
+42,PRD0042,Produk_42,Kesehatan,265,Gudang C,Tersedia,3020637.64,2025-05-15
+43,PRD0043,Produk_43,Peralatan Rumah Tangga,15,Gudang A,Habis,4010404.62,2025-05-13
+44,PRD0044,Produk_44,Kesehatan,198,Gudang C,Habis,2352898.14,2025-05-09
+45,PRD0045,Produk_45,Elektronik,400,Gudang A,Tersedia,2119053.61,2025-05-10
+46,PRD0046,Produk_46,Pakaian,406,Gudang A,Tersedia,4978232.79,2025-05-01
+47,PRD0047,Produk_47,Makanan & Minuman,281,Gudang C,Habis,62363.27,2025-05-14
+48,PRD0048,Produk_48,Elektronik,468,Gudang A,Tersedia,4476375.79,2025-05-03
+49,PRD0049,Produk_49,Makanan & Minuman,85,Gudang A,Habis,754212.72,2025-05-14
+50,PRD0050,Produk_50,Otomotif,249,Gudang A,Tersedia,3931767.13,2025-05-02
+51,PRD0051,Produk_51,Pakaian,390,Gudang C,Tersedia,3093478.48,2025-05-12
+52,PRD0052,Produk_52,Pakaian,269,Gudang C,Habis,1715817.95,2025-05-13
+53,PRD0053,Produk_53,Elektronik,334,Gudang A,Tersedia,4370636.03,2025-05-03
+54,PRD0054,Produk_54,Pakaian,116,Gudang A,Tersedia,74407.07,2025-05-10
+55,PRD0055,Produk_55,Kesehatan,6,Gudang C,Tersedia,1141186.35,2025-05-09
+56,PRD0056,Produk_56,Pakaian,136,Gudang C,Habis,2838795.05,2025-05-13
+57,PRD0057,Produk_57,Makanan & Minuman,370,Gudang A,Tersedia,1764195.88,2025-05-14
+58,PRD0058,Produk_58,Makanan & Minuman,175,Gudang A,Segera Habis,3055783.7,2025-05-09
+59,PRD0059,Produk_59,Makanan & Minuman,327,Gudang A,Tersedia,130309.87,2025-05-10
+60,PRD0060,Produk_60,Makanan & Minuman,497,Gudang B,Segera Habis,591130.06,2025-05-02
+61,PRD0061,Produk_61,Kesehatan,314,Gudang C,Segera Habis,644210.24,2025-05-14
+62,PRD0062,Produk_62,Peralatan Rumah Tangga,214,Gudang B,Tersedia,954525.39,2025-05-03
+63,PRD0063,Produk_63,Otomotif,476,Gudang C,Tersedia,2302063.89,2025-05-14
+64,PRD0064,Produk_64,Elektronik,81,Gudang C,Tersedia,3763122.21,2025-05-04
+65,PRD0065,Produk_65,Makanan & Minuman,222,Gudang C,Tersedia,4528638.8,2025-05-09
+66,PRD0066,Produk_66,Pakaian,477,Gudang C,Tersedia,4178508.93,2025-05-03
+67,PRD0067,Produk_67,Makanan & Minuman,371,Gudang C,Tersedia,992470.48,2025-05-13
+68,PRD0068,Produk_68,Pakaian,422,Gudang C,Tersedia,2211341.26,2025-05-07
+69,PRD0069,Produk_69,Otomotif,482,Gudang C,Tersedia,1005063.87,2025-05-12
+70,PRD0070,Produk_70,Otomotif,401,Gudang B,Tersedia,1329714.37,2025-05-03
+71,PRD0071,Produk_71,Otomotif,442,Gudang A,Tersedia,2522699.44,2025-05-07
+72,PRD0072,Produk_72,Pakaian,489,Gudang A,Segera Habis,349864.03,2025-05-07
+73,PRD0073,Produk_73,Makanan & Minuman,102,Gudang B,Tersedia,1098689.9,2025-05-09
+74,PRD0074,Produk_74,Otomotif,272,Gudang B,Tersedia,4677537.02,2025-05-02
+75,PRD0075,Produk_75,Kesehatan,13,Gudang B,Tersedia,2335920.3,2025-05-13
+76,PRD0076,Produk_76,Pakaian,158,Gudang B,Habis,2232478.76,2025-05-06
+77,PRD0077,Produk_77,Pakaian,151,Gudang C,Segera Habis,82690.1,2025-05-09
+78,PRD0078,Produk_78,Makanan & Minuman,482,Gudang A,Habis,1244524.74,2025-05-12
+79,PRD0079,Produk_79,Pakaian,107,Gudang C,Segera Habis,4332799.26,2025-05-15
+80,PRD0080,Produk_80,Pakaian,187,Gudang A,Tersedia,831495.86,2025-05-12
+81,PRD0081,Produk_81,Otomotif,300,Gudang A,Habis,2081473.45,2025-05-15
+82,PRD0082,Produk_82,Makanan & Minuman,97,Gudang B,Habis,81511.22,2025-05-02
+83,PRD0083,Produk_83,Otomotif,130,Gudang C,Tersedia,2396894.05,2025-05-02
+84,PRD0084,Produk_84,Otomotif,292,Gudang B,Segera Habis,114895.32,2025-05-13
+85,PRD0085,Produk_85,Makanan & Minuman,170,Gudang C,Tersedia,4099851.67,2025-05-14
+86,PRD0086,Produk_86,Elektronik,423,Gudang A,Tersedia,4126020.3,2025-05-05
+87,PRD0087,Produk_87,Otomotif,473,Gudang B,Tersedia,3940833.52,2025-05-10
+88,PRD0088,Produk_88,Kesehatan,182,Gudang B,Tersedia,1423986.7,2025-05-10
+89,PRD0089,Produk_89,Kesehatan,470,Gudang A,Habis,4187813.72,2025-05-12
+90,PRD0090,Produk_90,Pakaian,363,Gudang A,Tersedia,2719560.68,2025-05-10
+91,PRD0091,Produk_91,Kesehatan,38,Gudang A,Tersedia,1875302.46,2025-05-08
+92,PRD0092,Produk_92,Pakaian,14,Gudang B,Tersedia,3130396.5,2025-05-11
+93,PRD0093,Produk_93,Elektronik,375,Gudang C,Habis,71581.82,2025-05-15
+94,PRD0094,Produk_94,Makanan & Minuman,496,Gudang B,Tersedia,723374.78,2025-05-09
+95,PRD0095,Produk_95,Makanan & Minuman,3,Gudang C,Tersedia,3714044.76,2025-05-02
+96,PRD0096,Produk_96,Makanan & Minuman,348,Gudang B,Segera Habis,1228366.43,2025-05-05
+97,PRD0097,Produk_97,Kesehatan,469,Gudang B,Habis,2994065.5,2025-05-14
+98,PRD0098,Produk_98,Elektronik,408,Gudang A,Tersedia,1931661.99,2025-05-07
+99,PRD0099,Produk_99,Kesehatan,396,Gudang C,Habis,4275480.84,2025-05-15
+100,PRD0100,Produk_100,Kesehatan,209,Gudang B,Habis,4762552.38,2025-05-06
+101,PRD0101,Produk_101,Elektronik,160,Gudang B,Habis,4418987.99,2025-05-06
+102,PRD0102,Produk_102,Elektronik,15,Gudang A,Tersedia,1360393.77,2025-05-07
+103,PRD0103,Produk_103,Elektronik,492,Gudang A,Tersedia,978872.72,2025-05-03
+104,PRD0104,Produk_104,Elektronik,425,Gudang C,Tersedia,2377430.12,2025-05-13
+105,PRD0105,Produk_105,Makanan & Minuman,107,Gudang B,Tersedia,46597.41,2025-05-03
+106,PRD0106,Produk_106,Peralatan Rumah Tangga,381,Gudang C,Tersedia,138788.87,2025-05-10
+107,PRD0107,Produk_107,Peralatan Rumah Tangga,449,Gudang B,Tersedia,2770920.29,2025-05-09
+108,PRD0108,Produk_108,Elektronik,310,Gudang C,Tersedia,2607042.53,2025-05-14
+109,PRD0109,Produk_109,Peralatan Rumah Tangga,226,Gudang A,Tersedia,4972964.13,2025-05-08
+110,PRD0110,Produk_110,Peralatan Rumah Tangga,169,Gudang B,Tersedia,1017190.76,2025-05-05
+111,PRD0111,Produk_111,Elektronik,33,Gudang C,Habis,1297938.61,2025-05-06
+112,PRD0112,Produk_112,Peralatan Rumah Tangga,413,Gudang A,Tersedia,576567.81,2025-05-11
+113,PRD0113,Produk_113,Kesehatan,250,Gudang A,Tersedia,4588539.62,2025-05-12
+114,PRD0114,Produk_114,Pakaian,246,Gudang C,Habis,3891278.11,2025-05-10
+115,PRD0115,Produk_115,Pakaian,268,Gudang B,Tersedia,4113472.17,2025-05-01
+116,PRD0116,Produk_116,Elektronik,140,Gudang B,Habis,4514791.3,2025-05-10
+117,PRD0117,Produk_117,Makanan & Minuman,273,Gudang A,Habis,2629250.93,2025-05-12
+118,PRD0118,Produk_118,Elektronik,415,Gudang B,Tersedia,2261454.03,2025-05-01
+119,PRD0119,Produk_119,Makanan & Minuman,95,Gudang B,Habis,1658653.45,2025-05-04
+120,PRD0120,Produk_120,Pakaian,226,Gudang B,Tersedia,2950180.93,2025-05-02
+121,PRD0121,Produk_121,Elektronik,378,Gudang A,Tersedia,2276849.2,2025-05-11
+122,PRD0122,Produk_122,Otomotif,38,Gudang C,Tersedia,2263312.28,2025-05-07
+123,PRD0123,Produk_123,Kesehatan,301,Gudang B,Tersedia,4685270.04,2025-05-02
+124,PRD0124,Produk_124,Peralatan Rumah Tangga,499,Gudang A,Segera Habis,4920317.26,2025-05-10
+125,PRD0125,Produk_125,Makanan & Minuman,28,Gudang A,Tersedia,3984457.1,2025-05-02
+126,PRD0126,Produk_126,Otomotif,445,Gudang C,Tersedia,3786222.87,2025-05-05
+127,PRD0127,Produk_127,Peralatan Rumah Tangga,496,Gudang B,Tersedia,3405985.23,2025-05-04
+128,PRD0128,Produk_128,Peralatan Rumah Tangga,476,Gudang B,Tersedia,838713.51,2025-05-08
+129,PRD0129,Produk_129,Elektronik,317,Gudang C,Tersedia,304938.05,2025-05-04
+130,PRD0130,Produk_130,Peralatan Rumah Tangga,244,Gudang C,Tersedia,3456724.31,2025-05-14
+131,PRD0131,Produk_131,Kesehatan,235,Gudang A,Habis,3646643.25,2025-05-12
+132,PRD0132,Produk_132,Otomotif,184,Gudang A,Tersedia,244395.23,2025-05-06
+133,PRD0133,Produk_133,Peralatan Rumah Tangga,271,Gudang C,Tersedia,4640978.23,2025-05-05
+134,PRD0134,Produk_134,Elektronik,439,Gudang B,Tersedia,464791.79,2025-05-11
+135,PRD0135,Produk_135,Kesehatan,235,Gudang A,Tersedia,1436643.66,2025-05-14
+136,PRD0136,Produk_136,Pakaian,238,Gudang A,Habis,3365225.17,2025-05-02
+137,PRD0137,Produk_137,Otomotif,376,Gudang B,Tersedia,857664.25,2025-05-11
+138,PRD0138,Produk_138,Peralatan Rumah Tangga,265,Gudang A,Tersedia,286525.28,2025-05-15
+139,PRD0139,Produk_139,Elektronik,413,Gudang B,Tersedia,1662420.98,2025-05-13
+140,PRD0140,Produk_140,Pakaian,408,Gudang B,Habis,3832198.16,2025-05-12
+141,PRD0141,Produk_141,Pakaian,358,Gudang B,Tersedia,2074256.61,2025-05-14
+142,PRD0142,Produk_142,Makanan & Minuman,339,Gudang C,Tersedia,3268334.88,2025-05-08
+143,PRD0143,Produk_143,Kesehatan,388,Gudang C,Habis,2902299.3,2025-05-02
+144,PRD0144,Produk_144,Peralatan Rumah Tangga,64,Gudang C,Tersedia,120870.23,2025-05-09
+145,PRD0145,Produk_145,Elektronik,477,Gudang B,Habis,4942814.54,2025-05-15
+146,PRD0146,Produk_146,Makanan & Minuman,176,Gudang B,Habis,216726.16,2025-05-09
+147,PRD0147,Produk_147,Kesehatan,2,Gudang C,Tersedia,4839335.66,2025-05-03
+148,PRD0148,Produk_148,Makanan & Minuman,428,Gudang A,Tersedia,2753822.25,2025-05-04
+149,PRD0149,Produk_149,Otomotif,141,Gudang B,Tersedia,4816163.55,2025-05-08
+150,PRD0150,Produk_150,Kesehatan,375,Gudang A,Tersedia,582620.46,2025-05-09
+151,PRD0151,Produk_151,Kesehatan,157,Gudang A,Segera Habis,2457138.51,2025-05-03
+152,PRD0152,Produk_152,Peralatan Rumah Tangga,497,Gudang B,Tersedia,855825.42,2025-05-05
+153,PRD0153,Produk_153,Kesehatan,323,Gudang B,Tersedia,264364.64,2025-05-11
+154,PRD0154,Produk_154,Makanan & Minuman,145,Gudang A,Habis,3091470.28,2025-05-15
+155,PRD0155,Produk_155,Kesehatan,445,Gudang A,Tersedia,1046839.27,2025-05-08
+156,PRD0156,Produk_156,Peralatan Rumah Tangga,292,Gudang C,Tersedia,2942608.12,2025-05-03
+157,PRD0157,Produk_157,Peralatan Rumah Tangga,152,Gudang C,Tersedia,570698.76,2025-05-07
+158,PRD0158,Produk_158,Otomotif,431,Gudang B,Tersedia,1666612.49,2025-05-11
+159,PRD0159,Produk_159,Makanan & Minuman,192,Gudang C,Habis,3910346.46,2025-05-08
+160,PRD0160,Produk_160,Pakaian,436,Gudang C,Tersedia,2190887.09,2025-05-10
+161,PRD0161,Produk_161,Pakaian,493,Gudang C,Tersedia,3142449.62,2025-05-11
+162,PRD0162,Produk_162,Kesehatan,462,Gudang C,Tersedia,3240815.12,2025-05-14
+163,PRD0163,Produk_163,Otomotif,72,Gudang A,Tersedia,4220337.67,2025-05-03
+164,PRD0164,Produk_164,Elektronik,398,Gudang B,Tersedia,1631364.74,2025-05-02
+165,PRD0165,Produk_165,Kesehatan,304,Gudang C,Tersedia,3439604.86,2025-05-10
+166,PRD0166,Produk_166,Otomotif,376,Gudang A,Tersedia,4808462.88,2025-05-13
+167,PRD0167,Produk_167,Makanan & Minuman,343,Gudang A,Segera Habis,3653914.24,2025-05-07
+168,PRD0168,Produk_168,Makanan & Minuman,451,Gudang A,Tersedia,2454453.68,2025-05-12
+169,PRD0169,Produk_169,Makanan & Minuman,139,Gudang C,Tersedia,3157280.05,2025-05-09
+170,PRD0170,Produk_170,Makanan & Minuman,186,Gudang C,Tersedia,3701017.66,2025-05-01
+171,PRD0171,Produk_171,Makanan & Minuman,292,Gudang B,Habis,3065256.07,2025-05-03
+172,PRD0172,Produk_172,Otomotif,60,Gudang C,Habis,93212.31,2025-05-05
+173,PRD0173,Produk_173,Otomotif,484,Gudang C,Tersedia,981919.75,2025-05-03
+174,PRD0174,Produk_174,Peralatan Rumah Tangga,426,Gudang A,Segera Habis,4054236.4,2025-05-01
+175,PRD0175,Produk_175,Pakaian,379,Gudang B,Tersedia,1370526.73,2025-05-15
+176,PRD0176,Produk_176,Makanan & Minuman,197,Gudang C,Tersedia,3660494.98,2025-05-07
+177,PRD0177,Produk_177,Elektronik,294,Gudang C,Tersedia,1866879.87,2025-05-07
+178,PRD0178,Produk_178,Otomotif,439,Gudang A,Tersedia,2614202.8,2025-05-10
+179,PRD0179,Produk_179,Elektronik,318,Gudang A,Habis,349186.77,2025-05-12
+180,PRD0180,Produk_180,Elektronik,301,Gudang C,Tersedia,914315.55,2025-05-08
+181,PRD0181,Produk_181,Elektronik,343,Gudang B,Tersedia,4786412.85,2025-05-05
+182,PRD0182,Produk_182,Peralatan Rumah Tangga,10,Gudang B,Habis,4451788.89,2025-05-10
+183,PRD0183,Produk_183,Otomotif,61,Gudang A,Tersedia,3264852.8,2025-05-12
+184,PRD0184,Produk_184,Elektronik,332,Gudang A,Tersedia,2303626.54,2025-05-05
+185,PRD0185,Produk_185,Makanan & Minuman,225,Gudang C,Tersedia,3382048.85,2025-05-05
+186,PRD0186,Produk_186,Kesehatan,152,Gudang A,Tersedia,3096865.34,2025-05-01
+187,PRD0187,Produk_187,Elektronik,198,Gudang C,Tersedia,2847075.76,2025-05-10
+188,PRD0188,Produk_188,Peralatan Rumah Tangga,51,Gudang B,Tersedia,305293.59,2025-05-05
+189,PRD0189,Produk_189,Otomotif,259,Gudang B,Tersedia,3167685.03,2025-05-06
+190,PRD0190,Produk_190,Peralatan Rumah Tangga,58,Gudang C,Tersedia,3846911.02,2025-05-15
+191,PRD0191,Produk_191,Elektronik,71,Gudang A,Habis,4970467.46,2025-05-13
+192,PRD0192,Produk_192,Otomotif,147,Gudang B,Tersedia,65281.98,2025-05-12
+193,PRD0193,Produk_193,Kesehatan,348,Gudang A,Tersedia,3653565.53,2025-05-01
+194,PRD0194,Produk_194,Elektronik,62,Gudang B,Tersedia,2863228.69,2025-05-11
+195,PRD0195,Produk_195,Peralatan Rumah Tangga,309,Gudang C,Tersedia,2175920.36,2025-05-07
+196,PRD0196,Produk_196,Pakaian,372,Gudang C,Tersedia,646575.17,2025-05-01
+197,PRD0197,Produk_197,Makanan & Minuman,242,Gudang C,Tersedia,2051334.89,2025-05-11
+198,PRD0198,Produk_198,Peralatan Rumah Tangga,492,Gudang B,Tersedia,1778342.14,2025-05-02
+199,PRD0199,Produk_199,Otomotif,365,Gudang A,Segera Habis,1521121.15,2025-05-02
+200,PRD0200,Produk_200,Elektronik,329,Gudang A,Tersedia,3657089.32,2025-05-05
+201,PRD0201,Produk_201,Makanan & Minuman,106,Gudang A,Habis,3506620.35,2025-05-14
+202,PRD0202,Produk_202,Elektronik,225,Gudang B,Tersedia,2949210.25,2025-05-10
+203,PRD0203,Produk_203,Otomotif,312,Gudang B,Habis,4693937.42,2025-05-13
+204,PRD0204,Produk_204,Elektronik,217,Gudang B,Tersedia,1755773.38,2025-05-07
+205,PRD0205,Produk_205,Pakaian,424,Gudang B,Habis,1226571.67,2025-05-01
+206,PRD0206,Produk_206,Makanan & Minuman,240,Gudang B,Tersedia,3282957.53,2025-05-10
+207,PRD0207,Produk_207,Makanan & Minuman,258,Gudang A,Tersedia,1002082.16,2025-05-01
+208,PRD0208,Produk_208,Otomotif,375,Gudang B,Tersedia,1581902.43,2025-05-01
+209,PRD0209,Produk_209,Pakaian,261,Gudang B,Habis,1130766.18,2025-05-06
+210,PRD0210,Produk_210,Peralatan Rumah Tangga,4,Gudang A,Tersedia,355076.3,2025-05-02
+211,PRD0211,Produk_211,Elektronik,260,Gudang B,Tersedia,4139218.72,2025-05-01
+212,PRD0212,Produk_212,Kesehatan,53,Gudang A,Tersedia,1280157.31,2025-05-06
+213,PRD0213,Produk_213,Elektronik,46,Gudang A,Tersedia,2370407.24,2025-05-14
+214,PRD0214,Produk_214,Elektronik,214,Gudang C,Tersedia,226143.21,2025-05-02
+215,PRD0215,Produk_215,Peralatan Rumah Tangga,176,Gudang C,Tersedia,3499703.94,2025-05-06
+216,PRD0216,Produk_216,Elektronik,8,Gudang C,Segera Habis,1659499.4,2025-05-10
+217,PRD0217,Produk_217,Pakaian,98,Gudang C,Habis,3726236.27,2025-05-08
+218,PRD0218,Produk_218,Pakaian,19,Gudang B,Segera Habis,2067891.27,2025-05-02
+219,PRD0219,Produk_219,Makanan & Minuman,377,Gudang C,Tersedia,986820.48,2025-05-11
+220,PRD0220,Produk_220,Otomotif,240,Gudang A,Habis,2570743.66,2025-05-09
+221,PRD0221,Produk_221,Kesehatan,60,Gudang B,Habis,661217.75,2025-05-08
+222,PRD0222,Produk_222,Elektronik,378,Gudang C,Tersedia,2208290.41,2025-05-12
+223,PRD0223,Produk_223,Elektronik,489,Gudang A,Tersedia,1593354.33,2025-05-10
+224,PRD0224,Produk_224,Peralatan Rumah Tangga,418,Gudang B,Tersedia,4560678.33,2025-05-01
+225,PRD0225,Produk_225,Otomotif,177,Gudang B,Habis,314034.32,2025-05-07
+226,PRD0226,Produk_226,Pakaian,337,Gudang C,Tersedia,3473146.9,2025-05-14
+227,PRD0227,Produk_227,Kesehatan,61,Gudang B,Tersedia,921928.32,2025-05-13
+228,PRD0228,Produk_228,Makanan & Minuman,144,Gudang A,Tersedia,1602034.92,2025-05-10
+229,PRD0229,Produk_229,Pakaian,215,Gudang B,Segera Habis,2083415.17,2025-05-06
+230,PRD0230,Produk_230,Otomotif,2,Gudang A,Habis,4540995.3,2025-05-14
+231,PRD0231,Produk_231,Makanan & Minuman,159,Gudang B,Segera Habis,1220465.55,2025-05-06
+232,PRD0232,Produk_232,Peralatan Rumah Tangga,226,Gudang C,Tersedia,465630.92,2025-05-06
+233,PRD0233,Produk_233,Peralatan Rumah Tangga,485,Gudang A,Tersedia,1600261.12,2025-05-06
+234,PRD0234,Produk_234,Elektronik,268,Gudang B,Tersedia,532333.09,2025-05-10
+235,PRD0235,Produk_235,Otomotif,119,Gudang B,Tersedia,651696.46,2025-05-07
+236,PRD0236,Produk_236,Kesehatan,380,Gudang B,Tersedia,2873514.48,2025-05-12
+237,PRD0237,Produk_237,Makanan & Minuman,494,Gudang A,Tersedia,313900.65,2025-05-03
+238,PRD0238,Produk_238,Pakaian,88,Gudang A,Tersedia,164345.1,2025-05-14
+239,PRD0239,Produk_239,Otomotif,328,Gudang A,Tersedia,3574926.37,2025-05-06
+240,PRD0240,Produk_240,Otomotif,67,Gudang C,Segera Habis,1814619.0,2025-05-03
+241,PRD0241,Produk_241,Peralatan Rumah Tangga,397,Gudang C,Tersedia,635622.99,2025-05-07
+242,PRD0242,Produk_242,Elektronik,356,Gudang A,Habis,1275527.73,2025-05-07
+243,PRD0243,Produk_243,Elektronik,97,Gudang B,Tersedia,3214011.67,2025-05-08
+244,PRD0244,Produk_244,Makanan & Minuman,266,Gudang C,Tersedia,1384927.47,2025-05-02
+245,PRD0245,Produk_245,Peralatan Rumah Tangga,104,Gudang A,Tersedia,2477660.41,2025-05-09
+246,PRD0246,Produk_246,Otomotif,439,Gudang B,Tersedia,617259.58,2025-05-13
+247,PRD0247,Produk_247,Kesehatan,322,Gudang C,Tersedia,2944587.25,2025-05-05
+248,PRD0248,Produk_248,Peralatan Rumah Tangga,122,Gudang B,Tersedia,1587227.64,2025-05-09
+249,PRD0249,Produk_249,Makanan & Minuman,475,Gudang B,Tersedia,3138572.49,2025-05-10
+250,PRD0250,Produk_250,Makanan & Minuman,28,Gudang B,Tersedia,4043890.46,2025-05-05
+251,PRD0251,Produk_251,Peralatan Rumah Tangga,136,Gudang B,Tersedia,3062115.63,2025-05-07
+252,PRD0252,Produk_252,Makanan & Minuman,194,Gudang C,Segera Habis,1485780.34,2025-05-11
+253,PRD0253,Produk_253,Peralatan Rumah Tangga,408,Gudang C,Habis,1286161.07,2025-05-09
+254,PRD0254,Produk_254,Pakaian,225,Gudang C,Habis,1643830.58,2025-05-15
+255,PRD0255,Produk_255,Peralatan Rumah Tangga,331,Gudang A,Tersedia,831456.36,2025-05-04
+256,PRD0256,Produk_256,Peralatan Rumah Tangga,169,Gudang C,Habis,914047.54,2025-05-02
+257,PRD0257,Produk_257,Makanan & Minuman,8,Gudang B,Habis,3955548.6,2025-05-09
+258,PRD0258,Produk_258,Makanan & Minuman,462,Gudang C,Tersedia,1929815.56,2025-05-13
+259,PRD0259,Produk_259,Elektronik,39,Gudang B,Segera Habis,2185615.95,2025-05-02
+260,PRD0260,Produk_260,Elektronik,24,Gudang A,Tersedia,2974306.83,2025-05-03
+261,PRD0261,Produk_261,Pakaian,260,Gudang B,Segera Habis,2952370.94,2025-05-10
+262,PRD0262,Produk_262,Elektronik,394,Gudang B,Segera Habis,346210.59,2025-05-02
+263,PRD0263,Produk_263,Peralatan Rumah Tangga,442,Gudang B,Tersedia,4159388.52,2025-05-03
+264,PRD0264,Produk_264,Makanan & Minuman,225,Gudang A,Tersedia,894859.5,2025-05-06
+265,PRD0265,Produk_265,Elektronik,471,Gudang C,Segera Habis,3618127.46,2025-05-03
+266,PRD0266,Produk_266,Elektronik,123,Gudang C,Tersedia,3865628.23,2025-05-15
+267,PRD0267,Produk_267,Pakaian,462,Gudang A,Tersedia,3577348.68,2025-05-10
+268,PRD0268,Produk_268,Otomotif,37,Gudang B,Segera Habis,2899098.46,2025-05-08
+269,PRD0269,Produk_269,Pakaian,327,Gudang C,Tersedia,82898.9,2025-05-11
+270,PRD0270,Produk_270,Peralatan Rumah Tangga,250,Gudang A,Tersedia,1808273.71,2025-05-06
+271,PRD0271,Produk_271,Makanan & Minuman,388,Gudang C,Tersedia,3028148.75,2025-05-07
+272,PRD0272,Produk_272,Pakaian,175,Gudang A,Tersedia,1943381.97,2025-05-01
+273,PRD0273,Produk_273,Elektronik,89,Gudang B,Tersedia,4318764.68,2025-05-03
+274,PRD0274,Produk_274,Makanan & Minuman,401,Gudang C,Tersedia,1550923.35,2025-05-03
+275,PRD0275,Produk_275,Makanan & Minuman,453,Gudang A,Tersedia,1474738.61,2025-05-02
+276,PRD0276,Produk_276,Elektronik,36,Gudang C,Tersedia,1337328.49,2025-05-07
+277,PRD0277,Produk_277,Pakaian,315,Gudang C,Habis,1670576.54,2025-05-09
+278,PRD0278,Produk_278,Elektronik,175,Gudang C,Tersedia,2791450.77,2025-05-04
+279,PRD0279,Produk_279,Otomotif,460,Gudang C,Tersedia,3538006.32,2025-05-12
+280,PRD0280,Produk_280,Makanan & Minuman,283,Gudang A,Tersedia,3316213.91,2025-05-05
+281,PRD0281,Produk_281,Kesehatan,452,Gudang B,Tersedia,4040511.92,2025-05-03
+282,PRD0282,Produk_282,Kesehatan,460,Gudang A,Tersedia,4430710.84,2025-05-11
+283,PRD0283,Produk_283,Peralatan Rumah Tangga,80,Gudang A,Tersedia,4082234.42,2025-05-09
+284,PRD0284,Produk_284,Elektronik,113,Gudang A,Segera Habis,104537.56,2025-05-14
+285,PRD0285,Produk_285,Elektronik,39,Gudang B,Tersedia,3682230.59,2025-05-04
+286,PRD0286,Produk_286,Peralatan Rumah Tangga,300,Gudang C,Tersedia,1049913.87,2025-05-05
+287,PRD0287,Produk_287,Peralatan Rumah Tangga,223,Gudang C,Tersedia,673310.93,2025-05-01
+288,PRD0288,Produk_288,Peralatan Rumah Tangga,317,Gudang C,Tersedia,3196059.04,2025-05-11
+289,PRD0289,Produk_289,Makanan & Minuman,348,Gudang B,Tersedia,1605518.55,2025-05-12
+290,PRD0290,Produk_290,Otomotif,114,Gudang C,Tersedia,295014.65,2025-05-15
+291,PRD0291,Produk_291,Elektronik,185,Gudang B,Tersedia,696772.37,2025-05-13
+292,PRD0292,Produk_292,Makanan & Minuman,322,Gudang C,Habis,14637.79,2025-05-02
+293,PRD0293,Produk_293,Peralatan Rumah Tangga,55,Gudang C,Tersedia,4517085.9,2025-05-12
+294,PRD0294,Produk_294,Elektronik,39,Gudang A,Tersedia,132843.74,2025-05-13
+295,PRD0295,Produk_295,Makanan & Minuman,353,Gudang B,Tersedia,1055184.29,2025-05-09
+296,PRD0296,Produk_296,Otomotif,39,Gudang A,Tersedia,2087151.28,2025-05-02
+297,PRD0297,Produk_297,Makanan & Minuman,346,Gudang A,Tersedia,1789290.92,2025-05-05
+298,PRD0298,Produk_298,Otomotif,460,Gudang A,Tersedia,4559512.13,2025-05-13
+299,PRD0299,Produk_299,Peralatan Rumah Tangga,236,Gudang B,Tersedia,211041.84,2025-05-08
+300,PRD0300,Produk_300,Otomotif,288,Gudang B,Tersedia,2565951.39,2025-05-03
+301,PRD0301,Produk_301,Elektronik,261,Gudang C,Tersedia,3405592.52,2025-05-06
+302,PRD0302,Produk_302,Peralatan Rumah Tangga,215,Gudang A,Tersedia,4659172.89,2025-05-04
+303,PRD0303,Produk_303,Elektronik,146,Gudang C,Tersedia,3105652.55,2025-05-11
+304,PRD0304,Produk_304,Kesehatan,335,Gudang A,Tersedia,4020738.63,2025-05-07
+305,PRD0305,Produk_305,Pakaian,167,Gudang B,Tersedia,427787.44,2025-05-10
+306,PRD0306,Produk_306,Otomotif,91,Gudang B,Segera Habis,1935838.16,2025-05-14
+307,PRD0307,Produk_307,Pakaian,352,Gudang B,Tersedia,1875996.2,2025-05-13
+308,PRD0308,Produk_308,Pakaian,58,Gudang A,Habis,4432578.2,2025-05-03
+309,PRD0309,Produk_309,Otomotif,58,Gudang B,Tersedia,765342.14,2025-05-06
+310,PRD0310,Produk_310,Peralatan Rumah Tangga,303,Gudang A,Tersedia,767912.0,2025-05-15
+311,PRD0311,Produk_311,Kesehatan,168,Gudang C,Tersedia,1649505.17,2025-05-12
+312,PRD0312,Produk_312,Elektronik,268,Gudang A,Tersedia,281785.58,2025-05-15
+313,PRD0313,Produk_313,Makanan & Minuman,362,Gudang C,Tersedia,920465.62,2025-05-10
+314,PRD0314,Produk_314,Elektronik,44,Gudang A,Segera Habis,4826396.1,2025-05-09
+315,PRD0315,Produk_315,Makanan & Minuman,344,Gudang C,Tersedia,2146637.86,2025-05-11
+316,PRD0316,Produk_316,Elektronik,180,Gudang B,Segera Habis,3163775.85,2025-05-10
+317,PRD0317,Produk_317,Otomotif,169,Gudang C,Tersedia,3633295.18,2025-05-01
+318,PRD0318,Produk_318,Kesehatan,355,Gudang B,Habis,1841137.42,2025-05-03
+319,PRD0319,Produk_319,Makanan & Minuman,190,Gudang B,Tersedia,744663.1,2025-05-02
+320,PRD0320,Produk_320,Peralatan Rumah Tangga,154,Gudang C,Habis,1040839.27,2025-05-08
+321,PRD0321,Produk_321,Elektronik,421,Gudang A,Tersedia,1573199.72,2025-05-07
+322,PRD0322,Produk_322,Elektronik,187,Gudang A,Tersedia,3183981.42,2025-05-02
+323,PRD0323,Produk_323,Makanan & Minuman,6,Gudang A,Tersedia,1997419.94,2025-05-06
+324,PRD0324,Produk_324,Peralatan Rumah Tangga,132,Gudang A,Habis,44005.34,2025-05-15
+325,PRD0325,Produk_325,Peralatan Rumah Tangga,234,Gudang A,Tersedia,2621801.85,2025-05-03
+326,PRD0326,Produk_326,Otomotif,44,Gudang B,Habis,4608351.83,2025-05-08
+327,PRD0327,Produk_327,Otomotif,313,Gudang A,Tersedia,4062267.28,2025-05-10
+328,PRD0328,Produk_328,Otomotif,248,Gudang B,Habis,4127804.74,2025-05-13
+329,PRD0329,Produk_329,Otomotif,498,Gudang B,Habis,3977339.51,2025-05-03
+330,PRD0330,Produk_330,Otomotif,30,Gudang B,Habis,1625416.82,2025-05-10
+331,PRD0331,Produk_331,Otomotif,22,Gudang C,Tersedia,3828317.23,2025-05-14
+332,PRD0332,Produk_332,Kesehatan,425,Gudang C,Tersedia,724375.18,2025-05-09
+333,PRD0333,Produk_333,Peralatan Rumah Tangga,393,Gudang B,Segera Habis,3292003.57,2025-05-01
+334,PRD0334,Produk_334,Otomotif,159,Gudang C,Tersedia,3211427.15,2025-05-05
+335,PRD0335,Produk_335,Peralatan Rumah Tangga,362,Gudang A,Tersedia,137593.3,2025-05-03
+336,PRD0336,Produk_336,Peralatan Rumah Tangga,436,Gudang A,Tersedia,3941970.97,2025-05-06
+337,PRD0337,Produk_337,Pakaian,157,Gudang B,Habis,4517208.04,2025-05-10
+338,PRD0338,Produk_338,Kesehatan,38,Gudang A,Tersedia,1344402.24,2025-05-02
+339,PRD0339,Produk_339,Otomotif,414,Gudang B,Tersedia,4063829.71,2025-05-09
+340,PRD0340,Produk_340,Elektronik,81,Gudang B,Habis,421205.8,2025-05-06
+341,PRD0341,Produk_341,Makanan & Minuman,355,Gudang A,Tersedia,3003839.61,2025-05-07
+342,PRD0342,Produk_342,Elektronik,257,Gudang C,Segera Habis,2433377.86,2025-05-05
+343,PRD0343,Produk_343,Kesehatan,205,Gudang A,Tersedia,2734158.43,2025-05-09
+344,PRD0344,Produk_344,Makanan & Minuman,76,Gudang A,Tersedia,4631763.96,2025-05-01
+345,PRD0345,Produk_345,Kesehatan,476,Gudang B,Tersedia,4357863.08,2025-05-05
+346,PRD0346,Produk_346,Peralatan Rumah Tangga,11,Gudang B,Tersedia,3927567.45,2025-05-11
+347,PRD0347,Produk_347,Makanan & Minuman,294,Gudang B,Segera Habis,1375755.3,2025-05-10
+348,PRD0348,Produk_348,Peralatan Rumah Tangga,449,Gudang B,Tersedia,4559974.96,2025-05-11
+349,PRD0349,Produk_349,Elektronik,223,Gudang C,Tersedia,496563.39,2025-05-06
+350,PRD0350,Produk_350,Elektronik,12,Gudang C,Tersedia,4268112.79,2025-05-07
+351,PRD0351,Produk_351,Makanan & Minuman,45,Gudang C,Tersedia,1647518.76,2025-05-12
+352,PRD0352,Produk_352,Makanan & Minuman,154,Gudang B,Tersedia,278323.84,2025-05-04
+353,PRD0353,Produk_353,Otomotif,112,Gudang B,Tersedia,3350091.35,2025-05-12
+354,PRD0354,Produk_354,Kesehatan,232,Gudang B,Tersedia,1164086.84,2025-05-13
+355,PRD0355,Produk_355,Otomotif,16,Gudang C,Habis,1225419.92,2025-05-01
+356,PRD0356,Produk_356,Kesehatan,359,Gudang B,Tersedia,1537175.36,2025-05-15
+357,PRD0357,Produk_357,Otomotif,222,Gudang A,Tersedia,327786.99,2025-05-11
+358,PRD0358,Produk_358,Peralatan Rumah Tangga,353,Gudang A,Tersedia,893864.45,2025-05-08
+359,PRD0359,Produk_359,Makanan & Minuman,187,Gudang B,Habis,35646.74,2025-05-10
+360,PRD0360,Produk_360,Elektronik,447,Gudang A,Tersedia,2232593.51,2025-05-04
+361,PRD0361,Produk_361,Kesehatan,343,Gudang A,Tersedia,430434.33,2025-05-03
+362,PRD0362,Produk_362,Kesehatan,364,Gudang C,Tersedia,3416436.5,2025-05-12
+363,PRD0363,Produk_363,Elektronik,162,Gudang B,Segera Habis,1185758.03,2025-05-07
+364,PRD0364,Produk_364,Otomotif,495,Gudang B,Tersedia,4718434.98,2025-05-12
+365,PRD0365,Produk_365,Kesehatan,325,Gudang C,Habis,4357545.62,2025-05-02
+366,PRD0366,Produk_366,Peralatan Rumah Tangga,466,Gudang A,Tersedia,1454310.07,2025-05-08
+367,PRD0367,Produk_367,Makanan & Minuman,413,Gudang A,Tersedia,3918245.12,2025-05-14
+368,PRD0368,Produk_368,Elektronik,454,Gudang B,Habis,4018192.07,2025-05-06
+369,PRD0369,Produk_369,Makanan & Minuman,73,Gudang A,Tersedia,4932949.94,2025-05-07
+370,PRD0370,Produk_370,Kesehatan,232,Gudang C,Habis,2993221.53,2025-05-14
+371,PRD0371,Produk_371,Kesehatan,223,Gudang C,Segera Habis,419009.02,2025-05-05
+372,PRD0372,Produk_372,Elektronik,481,Gudang B,Habis,3237717.77,2025-05-09
+373,PRD0373,Produk_373,Peralatan Rumah Tangga,318,Gudang C,Tersedia,3128648.94,2025-05-05
+374,PRD0374,Produk_374,Pakaian,411,Gudang C,Habis,3195369.38,2025-05-11
+375,PRD0375,Produk_375,Elektronik,59,Gudang B,Tersedia,1542656.78,2025-05-05
+376,PRD0376,Produk_376,Pakaian,334,Gudang C,Habis,4299801.13,2025-05-03
+377,PRD0377,Produk_377,Otomotif,221,Gudang C,Tersedia,4797766.19,2025-05-11
+378,PRD0378,Produk_378,Pakaian,36,Gudang C,Habis,1096385.44,2025-05-01
+379,PRD0379,Produk_379,Peralatan Rumah Tangga,476,Gudang A,Tersedia,449879.27,2025-05-02
+380,PRD0380,Produk_380,Otomotif,277,Gudang B,Tersedia,980729.82,2025-05-08
+381,PRD0381,Produk_381,Pakaian,195,Gudang B,Tersedia,4104555.17,2025-05-15
+382,PRD0382,Produk_382,Otomotif,403,Gudang B,Habis,3386456.73,2025-05-01
+383,PRD0383,Produk_383,Pakaian,351,Gudang A,Tersedia,3183876.24,2025-05-07
+384,PRD0384,Produk_384,Peralatan Rumah Tangga,483,Gudang A,Tersedia,2014947.74,2025-05-14
+385,PRD0385,Produk_385,Pakaian,241,Gudang B,Habis,2893361.58,2025-05-14
+386,PRD0386,Produk_386,Pakaian,323,Gudang A,Tersedia,1546291.89,2025-05-05
+387,PRD0387,Produk_387,Pakaian,218,Gudang B,Tersedia,2391228.4,2025-05-03
+388,PRD0388,Produk_388,Elektronik,191,Gudang A,Tersedia,3967384.51,2025-05-12
+389,PRD0389,Produk_389,Elektronik,16,Gudang C,Tersedia,4906395.57,2025-05-12
+390,PRD0390,Produk_390,Elektronik,11,Gudang C,Tersedia,4663119.73,2025-05-15
+391,PRD0391,Produk_391,Peralatan Rumah Tangga,405,Gudang B,Tersedia,4669991.05,2025-05-11
+392,PRD0392,Produk_392,Otomotif,400,Gudang A,Tersedia,2017096.44,2025-05-07
+393,PRD0393,Produk_393,Kesehatan,393,Gudang A,Tersedia,2349261.5,2025-05-09
+394,PRD0394,Produk_394,Pakaian,373,Gudang C,Habis,3531120.63,2025-05-02
+395,PRD0395,Produk_395,Pakaian,192,Gudang C,Tersedia,4611737.72,2025-05-08
+396,PRD0396,Produk_396,Peralatan Rumah Tangga,21,Gudang A,Tersedia,718551.35,2025-05-09
+397,PRD0397,Produk_397,Pakaian,473,Gudang A,Segera Habis,1528166.9,2025-05-11
+398,PRD0398,Produk_398,Elektronik,119,Gudang A,Tersedia,704841.75,2025-05-03
+399,PRD0399,Produk_399,Kesehatan,209,Gudang A,Tersedia,3063922.56,2025-05-02
+400,PRD0400,Produk_400,Makanan & Minuman,305,Gudang A,Habis,1538441.97,2025-05-07
+401,PRD0401,Produk_401,Pakaian,269,Gudang A,Segera Habis,1637278.18,2025-05-05
+402,PRD0402,Produk_402,Elektronik,191,Gudang B,Habis,363870.64,2025-05-05
+403,PRD0403,Produk_403,Makanan & Minuman,174,Gudang A,Habis,1755482.35,2025-05-10
+404,PRD0404,Produk_404,Kesehatan,284,Gudang C,Habis,4313857.57,2025-05-05
+405,PRD0405,Produk_405,Makanan & Minuman,203,Gudang B,Tersedia,1173033.33,2025-05-04
+406,PRD0406,Produk_406,Elektronik,163,Gudang A,Habis,3478985.46,2025-05-13
+407,PRD0407,Produk_407,Otomotif,250,Gudang C,Tersedia,3151845.44,2025-05-05
+408,PRD0408,Produk_408,Otomotif,226,Gudang B,Segera Habis,4318788.2,2025-05-13
+409,PRD0409,Produk_409,Makanan & Minuman,435,Gudang C,Tersedia,670116.86,2025-05-04
+410,PRD0410,Produk_410,Peralatan Rumah Tangga,380,Gudang A,Tersedia,4888173.9,2025-05-15
+411,PRD0411,Produk_411,Makanan & Minuman,459,Gudang A,Tersedia,2917316.94,2025-05-13
+412,PRD0412,Produk_412,Pakaian,6,Gudang A,Habis,4977416.02,2025-05-06
+413,PRD0413,Produk_413,Pakaian,28,Gudang A,Tersedia,4558458.48,2025-05-04
+414,PRD0414,Produk_414,Otomotif,394,Gudang B,Habis,1115371.19,2025-05-02
+415,PRD0415,Produk_415,Peralatan Rumah Tangga,32,Gudang B,Habis,290248.43,2025-05-09
+416,PRD0416,Produk_416,Elektronik,133,Gudang C,Tersedia,1285639.08,2025-05-02
+417,PRD0417,Produk_417,Pakaian,366,Gudang A,Habis,2642542.61,2025-05-09
+418,PRD0418,Produk_418,Otomotif,78,Gudang C,Habis,866265.87,2025-05-10
+419,PRD0419,Produk_419,Kesehatan,415,Gudang B,Tersedia,845624.13,2025-05-06
+420,PRD0420,Produk_420,Otomotif,434,Gudang A,Tersedia,2318341.8,2025-05-09
+421,PRD0421,Produk_421,Pakaian,458,Gudang A,Tersedia,176007.18,2025-05-09
+422,PRD0422,Produk_422,Pakaian,57,Gudang B,Tersedia,618221.53,2025-05-03
+423,PRD0423,Produk_423,Otomotif,470,Gudang B,Tersedia,2085148.08,2025-05-01
+424,PRD0424,Produk_424,Elektronik,25,Gudang B,Segera Habis,325018.25,2025-05-01
+425,PRD0425,Produk_425,Makanan & Minuman,481,Gudang B,Tersedia,1989807.73,2025-05-03
+426,PRD0426,Produk_426,Pakaian,429,Gudang B,Habis,2375291.27,2025-05-05
+427,PRD0427,Produk_427,Otomotif,225,Gudang A,Tersedia,2261820.4,2025-05-13
+428,PRD0428,Produk_428,Otomotif,284,Gudang B,Tersedia,4347182.54,2025-05-03
+429,PRD0429,Produk_429,Peralatan Rumah Tangga,3,Gudang A,Habis,2655011.65,2025-05-12
+430,PRD0430,Produk_430,Makanan & Minuman,464,Gudang A,Habis,2345222.51,2025-05-09
+431,PRD0431,Produk_431,Kesehatan,98,Gudang B,Tersedia,2059439.13,2025-05-09
+432,PRD0432,Produk_432,Elektronik,396,Gudang B,Tersedia,4089940.66,2025-05-03
+433,PRD0433,Produk_433,Kesehatan,488,Gudang A,Tersedia,4476332.45,2025-05-03
+434,PRD0434,Produk_434,Makanan & Minuman,38,Gudang B,Tersedia,4267679.92,2025-05-12
+435,PRD0435,Produk_435,Makanan & Minuman,270,Gudang B,Tersedia,3370997.42,2025-05-14
+436,PRD0436,Produk_436,Makanan & Minuman,374,Gudang B,Tersedia,695435.11,2025-05-05
+437,PRD0437,Produk_437,Kesehatan,284,Gudang C,Tersedia,1391581.15,2025-05-02
+438,PRD0438,Produk_438,Makanan & Minuman,156,Gudang A,Habis,239854.69,2025-05-06
+439,PRD0439,Produk_439,Otomotif,74,Gudang C,Tersedia,4654812.13,2025-05-07
+440,PRD0440,Produk_440,Kesehatan,371,Gudang B,Tersedia,3307384.66,2025-05-13
+441,PRD0441,Produk_441,Makanan & Minuman,287,Gudang C,Tersedia,3734350.79,2025-05-09
+442,PRD0442,Produk_442,Otomotif,129,Gudang B,Habis,1564742.98,2025-05-15
+443,PRD0443,Produk_443,Peralatan Rumah Tangga,174,Gudang C,Habis,4229811.08,2025-05-06
+444,PRD0444,Produk_444,Makanan & Minuman,461,Gudang B,Tersedia,1305420.39,2025-05-03
+445,PRD0445,Produk_445,Kesehatan,83,Gudang C,Habis,18202.35,2025-05-12
+446,PRD0446,Produk_446,Pakaian,21,Gudang C,Tersedia,1888310.66,2025-05-05
+447,PRD0447,Produk_447,Makanan & Minuman,458,Gudang C,Tersedia,2858099.79,2025-05-04
+448,PRD0448,Produk_448,Pakaian,26,Gudang A,Tersedia,2398737.24,2025-05-15
+449,PRD0449,Produk_449,Otomotif,194,Gudang C,Tersedia,4311759.95,2025-05-05
+450,PRD0450,Produk_450,Peralatan Rumah Tangga,336,Gudang A,Habis,535972.38,2025-05-08
+451,PRD0451,Produk_451,Elektronik,381,Gudang B,Habis,2773578.97,2025-05-08
+452,PRD0452,Produk_452,Peralatan Rumah Tangga,235,Gudang C,Tersedia,2569766.96,2025-05-06
+453,PRD0453,Produk_453,Makanan & Minuman,439,Gudang B,Tersedia,1414150.98,2025-05-01
+454,PRD0454,Produk_454,Pakaian,91,Gudang B,Tersedia,4112918.28,2025-05-08
+455,PRD0455,Produk_455,Pakaian,476,Gudang C,Tersedia,3766714.79,2025-05-08
+456,PRD0456,Produk_456,Kesehatan,20,Gudang A,Tersedia,3666967.34,2025-05-02
+457,PRD0457,Produk_457,Pakaian,302,Gudang C,Tersedia,4382200.47,2025-05-04
+458,PRD0458,Produk_458,Kesehatan,463,Gudang B,Tersedia,3616695.16,2025-05-12
+459,PRD0459,Produk_459,Otomotif,356,Gudang B,Tersedia,1166888.05,2025-05-02
+460,PRD0460,Produk_460,Elektronik,442,Gudang C,Tersedia,3530757.93,2025-05-04
+461,PRD0461,Produk_461,Makanan & Minuman,83,Gudang A,Tersedia,1545437.04,2025-05-12
+462,PRD0462,Produk_462,Kesehatan,261,Gudang A,Habis,1218451.51,2025-05-13
+463,PRD0463,Produk_463,Elektronik,146,Gudang B,Tersedia,374287.93,2025-05-13
+464,PRD0464,Produk_464,Pakaian,440,Gudang B,Segera Habis,3722702.62,2025-05-10
+465,PRD0465,Produk_465,Pakaian,452,Gudang A,Tersedia,3557894.8,2025-05-07
+466,PRD0466,Produk_466,Elektronik,386,Gudang C,Habis,1180152.39,2025-05-09
+467,PRD0467,Produk_467,Pakaian,256,Gudang B,Habis,3749401.29,2025-05-14
+468,PRD0468,Produk_468,Otomotif,57,Gudang A,Tersedia,4590026.01,2025-05-14
+469,PRD0469,Produk_469,Otomotif,379,Gudang B,Tersedia,549064.5,2025-05-08
+470,PRD0470,Produk_470,Elektronik,421,Gudang C,Habis,1170856.83,2025-05-15
+471,PRD0471,Produk_471,Kesehatan,14,Gudang A,Tersedia,3753801.36,2025-05-12
+472,PRD0472,Produk_472,Kesehatan,161,Gudang B,Tersedia,1379788.3,2025-05-09
+473,PRD0473,Produk_473,Elektronik,444,Gudang C,Tersedia,3127073.23,2025-05-08
+474,PRD0474,Produk_474,Kesehatan,162,Gudang B,Tersedia,415009.48,2025-05-02
+475,PRD0475,Produk_475,Kesehatan,319,Gudang C,Tersedia,2266490.37,2025-05-07
+476,PRD0476,Produk_476,Otomotif,496,Gudang C,Segera Habis,3698066.2,2025-05-02
+477,PRD0477,Produk_477,Kesehatan,280,Gudang A,Tersedia,3435704.58,2025-05-13
+478,PRD0478,Produk_478,Peralatan Rumah Tangga,279,Gudang C,Tersedia,4077209.78,2025-05-12
+479,PRD0479,Produk_479,Makanan & Minuman,11,Gudang B,Segera Habis,4388486.11,2025-05-11
+480,PRD0480,Produk_480,Pakaian,273,Gudang C,Tersedia,3868185.67,2025-05-02
+481,PRD0481,Produk_481,Peralatan Rumah Tangga,270,Gudang C,Segera Habis,3361222.84,2025-05-15
+482,PRD0482,Produk_482,Kesehatan,491,Gudang A,Tersedia,168295.23,2025-05-04
+483,PRD0483,Produk_483,Otomotif,207,Gudang C,Tersedia,2679483.7,2025-05-01
+484,PRD0484,Produk_484,Elektronik,26,Gudang C,Habis,198111.65,2025-05-15
+485,PRD0485,Produk_485,Kesehatan,71,Gudang B,Tersedia,4042258.41,2025-05-05
+486,PRD0486,Produk_486,Otomotif,59,Gudang A,Habis,1610415.38,2025-05-06
+487,PRD0487,Produk_487,Makanan & Minuman,429,Gudang A,Segera Habis,2816522.58,2025-05-09
+488,PRD0488,Produk_488,Kesehatan,472,Gudang A,Habis,1404432.08,2025-05-10
+489,PRD0489,Produk_489,Elektronik,144,Gudang C,Tersedia,3914675.72,2025-05-08
+490,PRD0490,Produk_490,Otomotif,92,Gudang A,Habis,4433647.61,2025-05-02
+491,PRD0491,Produk_491,Otomotif,308,Gudang C,Tersedia,1999226.05,2025-05-01
+492,PRD0492,Produk_492,Otomotif,7,Gudang C,Tersedia,4315982.74,2025-05-02
+493,PRD0493,Produk_493,Makanan & Minuman,78,Gudang B,Habis,1342704.29,2025-05-07
+494,PRD0494,Produk_494,Kesehatan,26,Gudang B,Tersedia,2677958.01,2025-05-04
+495,PRD0495,Produk_495,Makanan & Minuman,173,Gudang B,Habis,4295219.53,2025-05-10
+496,PRD0496,Produk_496,Pakaian,49,Gudang B,Habis,1636147.9,2025-05-05
+497,PRD0497,Produk_497,Pakaian,499,Gudang B,Habis,4770670.9,2025-05-12
+498,PRD0498,Produk_498,Kesehatan,198,Gudang C,Tersedia,618178.71,2025-05-07
+499,PRD0499,Produk_499,Makanan & Minuman,386,Gudang C,Habis,101192.6,2025-05-03
+500,PRD0500,Produk_500,Elektronik,348,Gudang A,Tersedia,4521635.41,2025-05-10
+501,PRD0501,Produk_501,Otomotif,447,Gudang C,Habis,352556.84,2025-05-02
+502,PRD0502,Produk_502,Otomotif,427,Gudang C,Tersedia,4959527.09,2025-05-13
+503,PRD0503,Produk_503,Kesehatan,180,Gudang B,Tersedia,4757470.34,2025-05-07
+504,PRD0504,Produk_504,Pakaian,23,Gudang C,Tersedia,693734.34,2025-05-05
+505,PRD0505,Produk_505,Pakaian,315,Gudang B,Tersedia,2692547.28,2025-05-14
+506,PRD0506,Produk_506,Otomotif,377,Gudang A,Tersedia,932752.28,2025-05-15
+507,PRD0507,Produk_507,Kesehatan,386,Gudang A,Habis,2146494.31,2025-05-01
+508,PRD0508,Produk_508,Makanan & Minuman,403,Gudang C,Tersedia,316511.4,2025-05-01
+509,PRD0509,Produk_509,Pakaian,45,Gudang A,Tersedia,1127383.69,2025-05-09
+510,PRD0510,Produk_510,Makanan & Minuman,14,Gudang C,Tersedia,1822731.25,2025-05-05
+511,PRD0511,Produk_511,Pakaian,152,Gudang A,Tersedia,2198851.03,2025-05-01
+512,PRD0512,Produk_512,Pakaian,221,Gudang B,Tersedia,4887706.33,2025-05-07
+513,PRD0513,Produk_513,Peralatan Rumah Tangga,205,Gudang B,Tersedia,4041249.57,2025-05-09
+514,PRD0514,Produk_514,Pakaian,454,Gudang B,Tersedia,3689675.62,2025-05-11
+515,PRD0515,Produk_515,Elektronik,272,Gudang B,Tersedia,2689836.16,2025-05-01
+516,PRD0516,Produk_516,Kesehatan,381,Gudang C,Tersedia,4201588.83,2025-05-10
+517,PRD0517,Produk_517,Kesehatan,235,Gudang A,Tersedia,1703220.95,2025-05-14
+518,PRD0518,Produk_518,Makanan & Minuman,339,Gudang C,Tersedia,3547406.57,2025-05-13
+519,PRD0519,Produk_519,Pakaian,227,Gudang B,Habis,4968982.04,2025-05-04
+520,PRD0520,Produk_520,Elektronik,8,Gudang C,Habis,1579998.26,2025-05-14
+521,PRD0521,Produk_521,Makanan & Minuman,165,Gudang A,Tersedia,3373347.5,2025-05-03
+522,PRD0522,Produk_522,Peralatan Rumah Tangga,431,Gudang C,Segera Habis,4223131.17,2025-05-05
+523,PRD0523,Produk_523,Makanan & Minuman,443,Gudang A,Tersedia,4579879.84,2025-05-07
+524,PRD0524,Produk_524,Makanan & Minuman,318,Gudang C,Tersedia,3592484.13,2025-05-08
+525,PRD0525,Produk_525,Pakaian,213,Gudang A,Segera Habis,1425203.54,2025-05-13
+526,PRD0526,Produk_526,Peralatan Rumah Tangga,116,Gudang A,Tersedia,1638147.94,2025-05-02
+527,PRD0527,Produk_527,Makanan & Minuman,385,Gudang B,Segera Habis,113582.58,2025-05-07
+528,PRD0528,Produk_528,Elektronik,343,Gudang A,Tersedia,3806821.03,2025-05-14
+529,PRD0529,Produk_529,Elektronik,71,Gudang B,Tersedia,223270.63,2025-05-14
+530,PRD0530,Produk_530,Kesehatan,394,Gudang B,Tersedia,4324615.25,2025-05-01
+531,PRD0531,Produk_531,Peralatan Rumah Tangga,63,Gudang B,Habis,602116.47,2025-05-07
+532,PRD0532,Produk_532,Peralatan Rumah Tangga,204,Gudang C,Tersedia,867663.8,2025-05-08
+533,PRD0533,Produk_533,Kesehatan,208,Gudang C,Habis,2387867.09,2025-05-02
+534,PRD0534,Produk_534,Makanan & Minuman,71,Gudang C,Tersedia,3692023.27,2025-05-09
+535,PRD0535,Produk_535,Peralatan Rumah Tangga,276,Gudang C,Tersedia,703621.0,2025-05-01
+536,PRD0536,Produk_536,Elektronik,273,Gudang A,Tersedia,2205954.66,2025-05-13
+537,PRD0537,Produk_537,Elektronik,477,Gudang A,Tersedia,2419427.86,2025-05-06
+538,PRD0538,Produk_538,Pakaian,319,Gudang C,Segera Habis,1069305.35,2025-05-01
+539,PRD0539,Produk_539,Peralatan Rumah Tangga,337,Gudang A,Tersedia,586636.3,2025-05-03
+540,PRD0540,Produk_540,Makanan & Minuman,365,Gudang A,Habis,4183740.41,2025-05-11
+541,PRD0541,Produk_541,Kesehatan,494,Gudang B,Habis,2517303.59,2025-05-06
+542,PRD0542,Produk_542,Kesehatan,94,Gudang B,Tersedia,81762.37,2025-05-03
+543,PRD0543,Produk_543,Makanan & Minuman,165,Gudang B,Tersedia,4016876.69,2025-05-08
+544,PRD0544,Produk_544,Otomotif,31,Gudang B,Tersedia,4904161.09,2025-05-05
+545,PRD0545,Produk_545,Pakaian,10,Gudang A,Tersedia,3033571.72,2025-05-02
+546,PRD0546,Produk_546,Kesehatan,300,Gudang C,Tersedia,2523504.85,2025-05-04
+547,PRD0547,Produk_547,Peralatan Rumah Tangga,216,Gudang A,Tersedia,4393295.16,2025-05-09
+548,PRD0548,Produk_548,Pakaian,288,Gudang A,Tersedia,4763058.78,2025-05-04
+549,PRD0549,Produk_549,Peralatan Rumah Tangga,101,Gudang A,Tersedia,3775139.21,2025-05-10
+550,PRD0550,Produk_550,Elektronik,424,Gudang B,Tersedia,2232810.12,2025-05-10
+551,PRD0551,Produk_551,Pakaian,391,Gudang B,Tersedia,2965184.78,2025-05-08
+552,PRD0552,Produk_552,Kesehatan,266,Gudang B,Tersedia,3507667.47,2025-05-05
+553,PRD0553,Produk_553,Pakaian,213,Gudang C,Habis,979425.12,2025-05-11
+554,PRD0554,Produk_554,Pakaian,178,Gudang A,Tersedia,2241533.15,2025-05-11
+555,PRD0555,Produk_555,Pakaian,87,Gudang C,Tersedia,4150808.11,2025-05-10
+556,PRD0556,Produk_556,Otomotif,40,Gudang B,Habis,3277079.49,2025-05-13
+557,PRD0557,Produk_557,Pakaian,400,Gudang C,Tersedia,2061908.3,2025-05-13
+558,PRD0558,Produk_558,Peralatan Rumah Tangga,75,Gudang A,Tersedia,3320179.04,2025-05-14
+559,PRD0559,Produk_559,Elektronik,376,Gudang A,Tersedia,599929.84,2025-05-15
+560,PRD0560,Produk_560,Makanan & Minuman,45,Gudang B,Tersedia,2013473.08,2025-05-01
+561,PRD0561,Produk_561,Pakaian,159,Gudang B,Tersedia,3967711.4,2025-05-07
+562,PRD0562,Produk_562,Kesehatan,462,Gudang C,Tersedia,1110338.85,2025-05-03
+563,PRD0563,Produk_563,Pakaian,79,Gudang B,Tersedia,937947.92,2025-05-10
+564,PRD0564,Produk_564,Kesehatan,309,Gudang B,Tersedia,4754585.11,2025-05-08
+565,PRD0565,Produk_565,Peralatan Rumah Tangga,85,Gudang A,Habis,1057389.17,2025-05-14
+566,PRD0566,Produk_566,Kesehatan,91,Gudang B,Habis,1311983.71,2025-05-12
+567,PRD0567,Produk_567,Makanan & Minuman,147,Gudang B,Tersedia,4848383.54,2025-05-03
+568,PRD0568,Produk_568,Elektronik,160,Gudang A,Habis,3676195.77,2025-05-01
+569,PRD0569,Produk_569,Kesehatan,201,Gudang A,Tersedia,3500986.7,2025-05-05
+570,PRD0570,Produk_570,Kesehatan,423,Gudang C,Tersedia,4266102.66,2025-05-02
+571,PRD0571,Produk_571,Elektronik,415,Gudang B,Habis,587957.18,2025-05-11
+572,PRD0572,Produk_572,Makanan & Minuman,241,Gudang A,Tersedia,3532721.62,2025-05-04
+573,PRD0573,Produk_573,Pakaian,352,Gudang C,Tersedia,2523406.16,2025-05-01
+574,PRD0574,Produk_574,Kesehatan,1,Gudang C,Tersedia,4147461.7,2025-05-09
+575,PRD0575,Produk_575,Elektronik,224,Gudang B,Tersedia,2545627.18,2025-05-06
+576,PRD0576,Produk_576,Peralatan Rumah Tangga,288,Gudang B,Habis,3105004.36,2025-05-08
+577,PRD0577,Produk_577,Elektronik,232,Gudang C,Habis,2393933.21,2025-05-11
+578,PRD0578,Produk_578,Peralatan Rumah Tangga,460,Gudang A,Habis,2396013.03,2025-05-04
+579,PRD0579,Produk_579,Makanan & Minuman,413,Gudang C,Habis,3842170.19,2025-05-09
+580,PRD0580,Produk_580,Pakaian,416,Gudang B,Tersedia,3146546.34,2025-05-02
+581,PRD0581,Produk_581,Elektronik,76,Gudang A,Tersedia,3169983.38,2025-05-09
+582,PRD0582,Produk_582,Otomotif,115,Gudang A,Tersedia,2256909.59,2025-05-12
+583,PRD0583,Produk_583,Kesehatan,153,Gudang C,Tersedia,2660236.39,2025-05-05
+584,PRD0584,Produk_584,Makanan & Minuman,405,Gudang B,Tersedia,3731131.15,2025-05-13
+585,PRD0585,Produk_585,Elektronik,102,Gudang C,Segera Habis,4131445.19,2025-05-06
+586,PRD0586,Produk_586,Kesehatan,193,Gudang C,Tersedia,3485841.4,2025-05-03
+587,PRD0587,Produk_587,Elektronik,165,Gudang C,Tersedia,4621124.21,2025-05-04
+588,PRD0588,Produk_588,Peralatan Rumah Tangga,358,Gudang A,Tersedia,4103417.2,2025-05-06
+589,PRD0589,Produk_589,Elektronik,89,Gudang A,Tersedia,2813700.31,2025-05-07
+590,PRD0590,Produk_590,Otomotif,173,Gudang B,Habis,3360316.3,2025-05-01
+591,PRD0591,Produk_591,Elektronik,121,Gudang B,Tersedia,4632278.3,2025-05-07
+592,PRD0592,Produk_592,Elektronik,497,Gudang C,Tersedia,3099648.54,2025-05-01
+593,PRD0593,Produk_593,Otomotif,142,Gudang C,Habis,4125786.67,2025-05-05
+594,PRD0594,Produk_594,Makanan & Minuman,481,Gudang C,Tersedia,3447164.41,2025-05-06
+595,PRD0595,Produk_595,Elektronik,105,Gudang B,Tersedia,2764162.44,2025-05-13
+596,PRD0596,Produk_596,Otomotif,374,Gudang A,Tersedia,1216772.6,2025-05-02
+597,PRD0597,Produk_597,Kesehatan,427,Gudang A,Habis,2135727.62,2025-05-15
+598,PRD0598,Produk_598,Peralatan Rumah Tangga,304,Gudang C,Tersedia,4839036.7,2025-05-15
+599,PRD0599,Produk_599,Peralatan Rumah Tangga,359,Gudang C,Habis,3292249.26,2025-05-13
+600,PRD0600,Produk_600,Elektronik,458,Gudang C,Habis,2826332.95,2025-05-10
+601,PRD0601,Produk_601,Makanan & Minuman,316,Gudang C,Tersedia,4665453.56,2025-05-09
+602,PRD0602,Produk_602,Makanan & Minuman,450,Gudang B,Segera Habis,2936693.79,2025-05-14
+603,PRD0603,Produk_603,Kesehatan,122,Gudang A,Habis,2635151.77,2025-05-10
+604,PRD0604,Produk_604,Elektronik,389,Gudang C,Habis,3798961.17,2025-05-06
+605,PRD0605,Produk_605,Peralatan Rumah Tangga,8,Gudang B,Habis,3566201.44,2025-05-07
+606,PRD0606,Produk_606,Makanan & Minuman,261,Gudang C,Tersedia,973868.44,2025-05-14
+607,PRD0607,Produk_607,Elektronik,72,Gudang C,Tersedia,2361828.29,2025-05-15
+608,PRD0608,Produk_608,Makanan & Minuman,358,Gudang A,Tersedia,2367852.06,2025-05-10
+609,PRD0609,Produk_609,Otomotif,222,Gudang C,Tersedia,1897340.33,2025-05-15
+610,PRD0610,Produk_610,Makanan & Minuman,415,Gudang A,Tersedia,2591294.48,2025-05-08
+611,PRD0611,Produk_611,Peralatan Rumah Tangga,40,Gudang A,Habis,2071405.91,2025-05-11
+612,PRD0612,Produk_612,Pakaian,369,Gudang A,Habis,1004733.99,2025-05-15
+613,PRD0613,Produk_613,Kesehatan,203,Gudang B,Tersedia,2067708.77,2025-05-13
+614,PRD0614,Produk_614,Kesehatan,263,Gudang B,Habis,370661.97,2025-05-10
+615,PRD0615,Produk_615,Peralatan Rumah Tangga,327,Gudang A,Habis,2883171.46,2025-05-01
+616,PRD0616,Produk_616,Makanan & Minuman,177,Gudang C,Tersedia,4269736.2,2025-05-14
+617,PRD0617,Produk_617,Elektronik,347,Gudang A,Tersedia,3629182.55,2025-05-08
+618,PRD0618,Produk_618,Makanan & Minuman,317,Gudang C,Tersedia,1808366.26,2025-05-04
+619,PRD0619,Produk_619,Peralatan Rumah Tangga,83,Gudang A,Habis,444485.32,2025-05-10
+620,PRD0620,Produk_620,Kesehatan,317,Gudang C,Tersedia,1018725.5,2025-05-08
+621,PRD0621,Produk_621,Makanan & Minuman,110,Gudang B,Tersedia,2731996.8,2025-05-13
+622,PRD0622,Produk_622,Kesehatan,250,Gudang C,Tersedia,1043214.85,2025-05-15
+623,PRD0623,Produk_623,Elektronik,382,Gudang A,Habis,2724425.83,2025-05-06
+624,PRD0624,Produk_624,Kesehatan,6,Gudang B,Habis,1165679.13,2025-05-11
+625,PRD0625,Produk_625,Kesehatan,458,Gudang C,Habis,4246130.11,2025-05-09
+626,PRD0626,Produk_626,Pakaian,83,Gudang C,Segera Habis,1992384.65,2025-05-11
+627,PRD0627,Produk_627,Pakaian,207,Gudang C,Habis,1235297.62,2025-05-04
+628,PRD0628,Produk_628,Otomotif,387,Gudang C,Segera Habis,4063507.64,2025-05-02
+629,PRD0629,Produk_629,Pakaian,389,Gudang C,Segera Habis,1720766.43,2025-05-14
+630,PRD0630,Produk_630,Kesehatan,313,Gudang B,Habis,566323.56,2025-05-02
+631,PRD0631,Produk_631,Peralatan Rumah Tangga,21,Gudang B,Tersedia,2856343.36,2025-05-05
+632,PRD0632,Produk_632,Kesehatan,409,Gudang B,Tersedia,2912005.38,2025-05-10
+633,PRD0633,Produk_633,Peralatan Rumah Tangga,382,Gudang B,Tersedia,3576331.42,2025-05-09
+634,PRD0634,Produk_634,Peralatan Rumah Tangga,2,Gudang A,Tersedia,1208694.97,2025-05-12
+635,PRD0635,Produk_635,Pakaian,126,Gudang B,Tersedia,2224418.98,2025-05-03
+636,PRD0636,Produk_636,Makanan & Minuman,296,Gudang C,Tersedia,1419015.92,2025-05-08
+637,PRD0637,Produk_637,Elektronik,187,Gudang C,Segera Habis,413959.14,2025-05-04
+638,PRD0638,Produk_638,Pakaian,361,Gudang B,Habis,4384303.0,2025-05-06
+639,PRD0639,Produk_639,Pakaian,13,Gudang C,Habis,3647060.32,2025-05-10
+640,PRD0640,Produk_640,Makanan & Minuman,458,Gudang B,Tersedia,1514300.67,2025-05-06
+641,PRD0641,Produk_641,Elektronik,465,Gudang C,Tersedia,3000871.23,2025-05-03
+642,PRD0642,Produk_642,Kesehatan,11,Gudang A,Tersedia,1014306.3,2025-05-14
+643,PRD0643,Produk_643,Otomotif,86,Gudang A,Tersedia,4452280.74,2025-05-05
+644,PRD0644,Produk_644,Otomotif,11,Gudang B,Tersedia,583382.65,2025-05-12
+645,PRD0645,Produk_645,Kesehatan,396,Gudang B,Tersedia,29147.36,2025-05-03
+646,PRD0646,Produk_646,Pakaian,24,Gudang B,Segera Habis,2515020.91,2025-05-11
+647,PRD0647,Produk_647,Elektronik,300,Gudang C,Habis,2919807.84,2025-05-15
+648,PRD0648,Produk_648,Pakaian,242,Gudang B,Tersedia,2899036.95,2025-05-11
+649,PRD0649,Produk_649,Peralatan Rumah Tangga,121,Gudang A,Tersedia,282014.52,2025-05-15
+650,PRD0650,Produk_650,Pakaian,146,Gudang C,Tersedia,1577078.6,2025-05-01
+651,PRD0651,Produk_651,Pakaian,54,Gudang B,Tersedia,2501002.74,2025-05-07
+652,PRD0652,Produk_652,Kesehatan,237,Gudang C,Segera Habis,1090730.14,2025-05-04
+653,PRD0653,Produk_653,Kesehatan,355,Gudang C,Tersedia,4364403.17,2025-05-14
+654,PRD0654,Produk_654,Kesehatan,172,Gudang B,Tersedia,444675.35,2025-05-07
+655,PRD0655,Produk_655,Otomotif,391,Gudang C,Tersedia,2442048.36,2025-05-03
+656,PRD0656,Produk_656,Peralatan Rumah Tangga,220,Gudang A,Tersedia,3460166.13,2025-05-12
+657,PRD0657,Produk_657,Kesehatan,118,Gudang A,Tersedia,1316137.99,2025-05-15
+658,PRD0658,Produk_658,Elektronik,308,Gudang C,Habis,3124961.28,2025-05-15
+659,PRD0659,Produk_659,Otomotif,182,Gudang B,Tersedia,4148631.9,2025-05-11
+660,PRD0660,Produk_660,Makanan & Minuman,287,Gudang C,Tersedia,959781.51,2025-05-05
+661,PRD0661,Produk_661,Elektronik,306,Gudang A,Tersedia,4586930.75,2025-05-05
+662,PRD0662,Produk_662,Elektronik,299,Gudang C,Tersedia,2772257.08,2025-05-15
+663,PRD0663,Produk_663,Kesehatan,81,Gudang C,Habis,1503167.7,2025-05-13
+664,PRD0664,Produk_664,Makanan & Minuman,453,Gudang A,Tersedia,2159982.79,2025-05-02
+665,PRD0665,Produk_665,Makanan & Minuman,401,Gudang C,Tersedia,1567837.5,2025-05-11
+666,PRD0666,Produk_666,Otomotif,210,Gudang C,Tersedia,3628304.69,2025-05-10
+667,PRD0667,Produk_667,Makanan & Minuman,149,Gudang B,Tersedia,3983540.31,2025-05-12
+668,PRD0668,Produk_668,Peralatan Rumah Tangga,36,Gudang B,Tersedia,4166357.59,2025-05-02
+669,PRD0669,Produk_669,Kesehatan,351,Gudang A,Tersedia,4928983.57,2025-05-04
+670,PRD0670,Produk_670,Makanan & Minuman,311,Gudang A,Tersedia,3958508.62,2025-05-15
+671,PRD0671,Produk_671,Otomotif,360,Gudang A,Habis,3010906.51,2025-05-04
+672,PRD0672,Produk_672,Peralatan Rumah Tangga,58,Gudang B,Tersedia,1702709.29,2025-05-04
+673,PRD0673,Produk_673,Pakaian,130,Gudang A,Segera Habis,2727531.29,2025-05-06
+674,PRD0674,Produk_674,Pakaian,411,Gudang A,Tersedia,214930.18,2025-05-02
+675,PRD0675,Produk_675,Peralatan Rumah Tangga,201,Gudang A,Segera Habis,3726677.13,2025-05-06
+676,PRD0676,Produk_676,Otomotif,242,Gudang B,Habis,2235318.17,2025-05-07
+677,PRD0677,Produk_677,Peralatan Rumah Tangga,34,Gudang C,Tersedia,109915.92,2025-05-11
+678,PRD0678,Produk_678,Kesehatan,444,Gudang A,Habis,321909.64,2025-05-10
+679,PRD0679,Produk_679,Kesehatan,92,Gudang C,Tersedia,1943457.65,2025-05-03
+680,PRD0680,Produk_680,Pakaian,437,Gudang A,Segera Habis,2921273.38,2025-05-11
+681,PRD0681,Produk_681,Makanan & Minuman,446,Gudang C,Tersedia,2326377.71,2025-05-12
+682,PRD0682,Produk_682,Otomotif,206,Gudang B,Tersedia,3099829.54,2025-05-08
+683,PRD0683,Produk_683,Pakaian,352,Gudang B,Tersedia,2406668.35,2025-05-02
+684,PRD0684,Produk_684,Makanan & Minuman,390,Gudang A,Segera Habis,3311902.19,2025-05-11
+685,PRD0685,Produk_685,Makanan & Minuman,331,Gudang C,Tersedia,1103439.06,2025-05-08
+686,PRD0686,Produk_686,Kesehatan,304,Gudang B,Tersedia,573087.5,2025-05-13
+687,PRD0687,Produk_687,Elektronik,349,Gudang A,Habis,2986205.43,2025-05-11
+688,PRD0688,Produk_688,Elektronik,212,Gudang A,Habis,2428600.69,2025-05-05
+689,PRD0689,Produk_689,Peralatan Rumah Tangga,158,Gudang B,Tersedia,144069.59,2025-05-02
+690,PRD0690,Produk_690,Kesehatan,441,Gudang B,Tersedia,1908604.61,2025-05-07
+691,PRD0691,Produk_691,Makanan & Minuman,444,Gudang A,Tersedia,539566.67,2025-05-14
+692,PRD0692,Produk_692,Otomotif,23,Gudang C,Tersedia,2661470.59,2025-05-02
+693,PRD0693,Produk_693,Elektronik,403,Gudang C,Tersedia,1984930.62,2025-05-14
+694,PRD0694,Produk_694,Makanan & Minuman,292,Gudang C,Segera Habis,3069628.04,2025-05-06
+695,PRD0695,Produk_695,Elektronik,3,Gudang A,Tersedia,4029955.07,2025-05-10
+696,PRD0696,Produk_696,Elektronik,219,Gudang B,Tersedia,1505346.73,2025-05-03
+697,PRD0697,Produk_697,Elektronik,363,Gudang A,Tersedia,4810889.5,2025-05-09
+698,PRD0698,Produk_698,Otomotif,381,Gudang B,Tersedia,2682816.16,2025-05-03
+699,PRD0699,Produk_699,Kesehatan,19,Gudang C,Tersedia,3095271.09,2025-05-11
+700,PRD0700,Produk_700,Otomotif,443,Gudang C,Tersedia,3406555.14,2025-05-15
+701,PRD0701,Produk_701,Pakaian,151,Gudang B,Tersedia,3336990.33,2025-05-12
+702,PRD0702,Produk_702,Makanan & Minuman,49,Gudang B,Segera Habis,2559744.01,2025-05-12
+703,PRD0703,Produk_703,Kesehatan,176,Gudang A,Tersedia,2149533.81,2025-05-03
+704,PRD0704,Produk_704,Kesehatan,434,Gudang C,Segera Habis,278372.0,2025-05-05
+705,PRD0705,Produk_705,Kesehatan,95,Gudang A,Habis,120208.37,2025-05-07
+706,PRD0706,Produk_706,Kesehatan,104,Gudang A,Tersedia,1796226.36,2025-05-14
+707,PRD0707,Produk_707,Otomotif,419,Gudang A,Habis,1674967.84,2025-05-08
+708,PRD0708,Produk_708,Kesehatan,249,Gudang C,Tersedia,1944598.82,2025-05-12
+709,PRD0709,Produk_709,Peralatan Rumah Tangga,116,Gudang A,Tersedia,700457.32,2025-05-11
+710,PRD0710,Produk_710,Makanan & Minuman,353,Gudang A,Habis,3693459.67,2025-05-07
+711,PRD0711,Produk_711,Kesehatan,227,Gudang A,Tersedia,4286252.43,2025-05-09
+712,PRD0712,Produk_712,Makanan & Minuman,65,Gudang A,Tersedia,4694186.03,2025-05-05
+713,PRD0713,Produk_713,Peralatan Rumah Tangga,334,Gudang A,Habis,2466887.89,2025-05-10
+714,PRD0714,Produk_714,Peralatan Rumah Tangga,417,Gudang A,Tersedia,3507319.84,2025-05-11
+715,PRD0715,Produk_715,Makanan & Minuman,419,Gudang C,Tersedia,4279200.11,2025-05-15
+716,PRD0716,Produk_716,Elektronik,261,Gudang A,Segera Habis,2097272.64,2025-05-03
+717,PRD0717,Produk_717,Pakaian,294,Gudang B,Tersedia,1553969.85,2025-05-06
+718,PRD0718,Produk_718,Elektronik,425,Gudang A,Tersedia,4684255.53,2025-05-05
+719,PRD0719,Produk_719,Elektronik,242,Gudang A,Tersedia,2583225.99,2025-05-12
+720,PRD0720,Produk_720,Otomotif,370,Gudang C,Tersedia,2491296.89,2025-05-04
+721,PRD0721,Produk_721,Elektronik,185,Gudang C,Tersedia,900296.32,2025-05-12
+722,PRD0722,Produk_722,Kesehatan,245,Gudang B,Segera Habis,549693.52,2025-05-02
+723,PRD0723,Produk_723,Otomotif,124,Gudang B,Tersedia,4212113.24,2025-05-07
+724,PRD0724,Produk_724,Otomotif,267,Gudang C,Tersedia,3074524.55,2025-05-13
+725,PRD0725,Produk_725,Peralatan Rumah Tangga,130,Gudang C,Habis,1635864.67,2025-05-05
+726,PRD0726,Produk_726,Elektronik,236,Gudang A,Habis,966763.72,2025-05-04
+727,PRD0727,Produk_727,Peralatan Rumah Tangga,17,Gudang C,Tersedia,2781931.43,2025-05-12
+728,PRD0728,Produk_728,Makanan & Minuman,39,Gudang B,Tersedia,2923757.25,2025-05-14
+729,PRD0729,Produk_729,Pakaian,20,Gudang A,Tersedia,1042898.07,2025-05-08
+730,PRD0730,Produk_730,Otomotif,398,Gudang B,Tersedia,4258514.68,2025-05-09
+731,PRD0731,Produk_731,Makanan & Minuman,224,Gudang A,Tersedia,430479.19,2025-05-09
+732,PRD0732,Produk_732,Makanan & Minuman,354,Gudang C,Tersedia,1786904.49,2025-05-03
+733,PRD0733,Produk_733,Kesehatan,281,Gudang B,Segera Habis,3405118.22,2025-05-03
+734,PRD0734,Produk_734,Pakaian,7,Gudang A,Habis,1377860.62,2025-05-05
+735,PRD0735,Produk_735,Makanan & Minuman,99,Gudang A,Tersedia,4140099.22,2025-05-05
+736,PRD0736,Produk_736,Makanan & Minuman,239,Gudang C,Tersedia,3701940.45,2025-05-10
+737,PRD0737,Produk_737,Pakaian,477,Gudang C,Tersedia,3947223.99,2025-05-02
+738,PRD0738,Produk_738,Pakaian,86,Gudang C,Tersedia,604341.61,2025-05-01
+739,PRD0739,Produk_739,Makanan & Minuman,297,Gudang B,Tersedia,711330.17,2025-05-08
+740,PRD0740,Produk_740,Pakaian,427,Gudang A,Habis,1439503.95,2025-05-03
+741,PRD0741,Produk_741,Makanan & Minuman,13,Gudang C,Tersedia,2595205.05,2025-05-01
+742,PRD0742,Produk_742,Makanan & Minuman,333,Gudang B,Tersedia,3742600.22,2025-05-01
+743,PRD0743,Produk_743,Kesehatan,1,Gudang B,Habis,4184289.14,2025-05-11
+744,PRD0744,Produk_744,Elektronik,374,Gudang B,Tersedia,3524633.23,2025-05-15
+745,PRD0745,Produk_745,Makanan & Minuman,292,Gudang C,Tersedia,4643698.44,2025-05-02
+746,PRD0746,Produk_746,Peralatan Rumah Tangga,324,Gudang C,Tersedia,3696330.11,2025-05-06
+747,PRD0747,Produk_747,Otomotif,421,Gudang A,Tersedia,1538276.76,2025-05-06
+748,PRD0748,Produk_748,Elektronik,492,Gudang A,Segera Habis,1332755.61,2025-05-14
+749,PRD0749,Produk_749,Elektronik,40,Gudang C,Tersedia,3484000.33,2025-05-03
+750,PRD0750,Produk_750,Elektronik,317,Gudang B,Tersedia,972424.14,2025-05-12
+751,PRD0751,Produk_751,Kesehatan,315,Gudang B,Tersedia,472646.91,2025-05-04
+752,PRD0752,Produk_752,Makanan & Minuman,380,Gudang B,Segera Habis,2665792.15,2025-05-12
+753,PRD0753,Produk_753,Kesehatan,110,Gudang A,Tersedia,4109991.43,2025-05-13
+754,PRD0754,Produk_754,Makanan & Minuman,13,Gudang B,Tersedia,515885.41,2025-05-02
+755,PRD0755,Produk_755,Kesehatan,230,Gudang A,Tersedia,3961537.71,2025-05-02
+756,PRD0756,Produk_756,Kesehatan,472,Gudang A,Tersedia,4059744.3,2025-05-15
+757,PRD0757,Produk_757,Otomotif,83,Gudang B,Tersedia,2416547.26,2025-05-07
+758,PRD0758,Produk_758,Peralatan Rumah Tangga,129,Gudang B,Tersedia,295978.45,2025-05-13
+759,PRD0759,Produk_759,Kesehatan,230,Gudang C,Tersedia,881203.36,2025-05-01
+760,PRD0760,Produk_760,Otomotif,325,Gudang C,Tersedia,3540057.11,2025-05-07
+761,PRD0761,Produk_761,Pakaian,144,Gudang B,Habis,3561771.95,2025-05-14
+762,PRD0762,Produk_762,Peralatan Rumah Tangga,378,Gudang A,Tersedia,4492792.82,2025-05-12
+763,PRD0763,Produk_763,Kesehatan,344,Gudang A,Tersedia,2917603.87,2025-05-14
+764,PRD0764,Produk_764,Elektronik,27,Gudang A,Tersedia,629295.76,2025-05-12
+765,PRD0765,Produk_765,Pakaian,65,Gudang A,Segera Habis,615860.38,2025-05-14
+766,PRD0766,Produk_766,Pakaian,162,Gudang A,Tersedia,3608450.46,2025-05-01
+767,PRD0767,Produk_767,Otomotif,228,Gudang C,Habis,927085.48,2025-05-14
+768,PRD0768,Produk_768,Pakaian,260,Gudang B,Habis,1648643.64,2025-05-06
+769,PRD0769,Produk_769,Peralatan Rumah Tangga,448,Gudang C,Tersedia,2441187.91,2025-05-03
+770,PRD0770,Produk_770,Kesehatan,423,Gudang A,Segera Habis,133576.74,2025-05-08
+771,PRD0771,Produk_771,Kesehatan,459,Gudang A,Tersedia,1251606.94,2025-05-06
+772,PRD0772,Produk_772,Elektronik,439,Gudang A,Tersedia,2045369.15,2025-05-11
+773,PRD0773,Produk_773,Otomotif,163,Gudang A,Habis,1405385.23,2025-05-02
+774,PRD0774,Produk_774,Elektronik,300,Gudang B,Habis,690487.93,2025-05-08
+775,PRD0775,Produk_775,Pakaian,406,Gudang A,Tersedia,3642781.17,2025-05-05
+776,PRD0776,Produk_776,Elektronik,302,Gudang B,Tersedia,4067606.8,2025-05-08
+777,PRD0777,Produk_777,Peralatan Rumah Tangga,286,Gudang A,Tersedia,1294820.09,2025-05-08
+778,PRD0778,Produk_778,Kesehatan,394,Gudang B,Habis,3874353.28,2025-05-06
+779,PRD0779,Produk_779,Pakaian,9,Gudang C,Tersedia,1933912.29,2025-05-02
+780,PRD0780,Produk_780,Elektronik,194,Gudang A,Tersedia,2538362.1,2025-05-08
+781,PRD0781,Produk_781,Otomotif,117,Gudang B,Tersedia,4281445.36,2025-05-15
+782,PRD0782,Produk_782,Peralatan Rumah Tangga,269,Gudang C,Tersedia,3752268.87,2025-05-15
+783,PRD0783,Produk_783,Peralatan Rumah Tangga,79,Gudang A,Habis,4027533.09,2025-05-11
+784,PRD0784,Produk_784,Elektronik,457,Gudang A,Tersedia,692857.38,2025-05-06
+785,PRD0785,Produk_785,Kesehatan,92,Gudang A,Segera Habis,357899.93,2025-05-06
+786,PRD0786,Produk_786,Elektronik,265,Gudang B,Tersedia,4468089.6,2025-05-08
+787,PRD0787,Produk_787,Pakaian,331,Gudang B,Habis,1945293.01,2025-05-01
+788,PRD0788,Produk_788,Elektronik,349,Gudang C,Tersedia,1446519.59,2025-05-02
+789,PRD0789,Produk_789,Peralatan Rumah Tangga,360,Gudang B,Tersedia,3626234.31,2025-05-12
+790,PRD0790,Produk_790,Elektronik,256,Gudang B,Tersedia,4183713.83,2025-05-12
+791,PRD0791,Produk_791,Kesehatan,132,Gudang A,Tersedia,4313823.21,2025-05-09
+792,PRD0792,Produk_792,Otomotif,275,Gudang A,Tersedia,1586825.73,2025-05-11
+793,PRD0793,Produk_793,Makanan & Minuman,263,Gudang A,Segera Habis,4262539.83,2025-05-12
+794,PRD0794,Produk_794,Elektronik,170,Gudang A,Tersedia,214260.38,2025-05-08
+795,PRD0795,Produk_795,Kesehatan,459,Gudang A,Tersedia,257810.84,2025-05-12
+796,PRD0796,Produk_796,Kesehatan,0,Gudang A,Tersedia,3121360.78,2025-05-07
+797,PRD0797,Produk_797,Otomotif,312,Gudang A,Tersedia,324900.78,2025-05-07
+798,PRD0798,Produk_798,Peralatan Rumah Tangga,63,Gudang C,Tersedia,1629799.75,2025-05-05
+799,PRD0799,Produk_799,Kesehatan,373,Gudang C,Habis,3367052.37,2025-05-02
+800,PRD0800,Produk_800,Kesehatan,467,Gudang C,Segera Habis,1692961.81,2025-05-11
+801,PRD0801,Produk_801,Kesehatan,283,Gudang C,Tersedia,906202.91,2025-05-06
+802,PRD0802,Produk_802,Kesehatan,120,Gudang A,Tersedia,1413939.6,2025-05-10
+803,PRD0803,Produk_803,Pakaian,106,Gudang C,Tersedia,2293300.91,2025-05-03
+804,PRD0804,Produk_804,Pakaian,420,Gudang A,Tersedia,2382175.42,2025-05-04
+805,PRD0805,Produk_805,Peralatan Rumah Tangga,174,Gudang C,Tersedia,3917171.15,2025-05-13
+806,PRD0806,Produk_806,Elektronik,484,Gudang B,Tersedia,3753264.61,2025-05-10
+807,PRD0807,Produk_807,Kesehatan,203,Gudang C,Tersedia,2289520.84,2025-05-12
+808,PRD0808,Produk_808,Otomotif,164,Gudang C,Tersedia,4229880.07,2025-05-11
+809,PRD0809,Produk_809,Elektronik,304,Gudang A,Habis,580043.32,2025-05-02
+810,PRD0810,Produk_810,Otomotif,496,Gudang C,Tersedia,1284213.22,2025-05-14
+811,PRD0811,Produk_811,Elektronik,119,Gudang B,Tersedia,4141602.55,2025-05-02
+812,PRD0812,Produk_812,Peralatan Rumah Tangga,43,Gudang A,Tersedia,1896190.25,2025-05-12
+813,PRD0813,Produk_813,Kesehatan,311,Gudang A,Tersedia,4906095.98,2025-05-08
+814,PRD0814,Produk_814,Kesehatan,155,Gudang C,Segera Habis,2336603.87,2025-05-08
+815,PRD0815,Produk_815,Makanan & Minuman,366,Gudang A,Habis,3961758.76,2025-05-10
+816,PRD0816,Produk_816,Otomotif,206,Gudang A,Habis,2017512.14,2025-05-06
+817,PRD0817,Produk_817,Elektronik,389,Gudang A,Tersedia,2130518.06,2025-05-13
+818,PRD0818,Produk_818,Elektronik,107,Gudang A,Habis,1920586.9,2025-05-05
+819,PRD0819,Produk_819,Pakaian,250,Gudang A,Tersedia,3598187.35,2025-05-08
+820,PRD0820,Produk_820,Makanan & Minuman,444,Gudang A,Habis,2742114.24,2025-05-04
+821,PRD0821,Produk_821,Pakaian,403,Gudang B,Tersedia,4719452.78,2025-05-11
+822,PRD0822,Produk_822,Pakaian,369,Gudang C,Segera Habis,1261942.68,2025-05-04
+823,PRD0823,Produk_823,Pakaian,333,Gudang B,Segera Habis,511808.03,2025-05-05
+824,PRD0824,Produk_824,Otomotif,129,Gudang A,Habis,1972374.81,2025-05-01
+825,PRD0825,Produk_825,Otomotif,456,Gudang A,Tersedia,3087396.41,2025-05-01
+826,PRD0826,Produk_826,Peralatan Rumah Tangga,292,Gudang C,Tersedia,4305386.7,2025-05-02
+827,PRD0827,Produk_827,Peralatan Rumah Tangga,19,Gudang B,Habis,1737522.46,2025-05-14
+828,PRD0828,Produk_828,Pakaian,281,Gudang C,Tersedia,3272395.89,2025-05-08
+829,PRD0829,Produk_829,Makanan & Minuman,284,Gudang B,Habis,1757491.42,2025-05-07
+830,PRD0830,Produk_830,Elektronik,0,Gudang A,Tersedia,3089925.72,2025-05-15
+831,PRD0831,Produk_831,Otomotif,118,Gudang C,Tersedia,4425191.66,2025-05-15
+832,PRD0832,Produk_832,Makanan & Minuman,34,Gudang C,Segera Habis,1164474.63,2025-05-10
+833,PRD0833,Produk_833,Kesehatan,197,Gudang A,Tersedia,2027165.79,2025-05-09
+834,PRD0834,Produk_834,Otomotif,484,Gudang C,Tersedia,4966393.33,2025-05-05
+835,PRD0835,Produk_835,Otomotif,244,Gudang B,Tersedia,4344099.57,2025-05-02
+836,PRD0836,Produk_836,Peralatan Rumah Tangga,58,Gudang B,Tersedia,2827552.89,2025-05-07
+837,PRD0837,Produk_837,Elektronik,324,Gudang B,Habis,2587971.68,2025-05-15
+838,PRD0838,Produk_838,Elektronik,160,Gudang B,Tersedia,1430155.91,2025-05-08
+839,PRD0839,Produk_839,Kesehatan,496,Gudang A,Segera Habis,2590875.04,2025-05-12
+840,PRD0840,Produk_840,Kesehatan,178,Gudang C,Habis,4242425.68,2025-05-07
+841,PRD0841,Produk_841,Otomotif,205,Gudang B,Tersedia,3429020.82,2025-05-14
+842,PRD0842,Produk_842,Pakaian,11,Gudang A,Habis,1457319.7,2025-05-07
+843,PRD0843,Produk_843,Peralatan Rumah Tangga,489,Gudang C,Tersedia,1015304.97,2025-05-12
+844,PRD0844,Produk_844,Peralatan Rumah Tangga,275,Gudang C,Tersedia,1333390.6,2025-05-15
+845,PRD0845,Produk_845,Otomotif,180,Gudang A,Segera Habis,857098.41,2025-05-14
+846,PRD0846,Produk_846,Makanan & Minuman,241,Gudang A,Tersedia,487247.07,2025-05-05
+847,PRD0847,Produk_847,Pakaian,215,Gudang B,Tersedia,2101489.51,2025-05-02
+848,PRD0848,Produk_848,Otomotif,250,Gudang C,Tersedia,575365.03,2025-05-06
+849,PRD0849,Produk_849,Pakaian,298,Gudang C,Tersedia,867843.66,2025-05-04
+850,PRD0850,Produk_850,Pakaian,125,Gudang A,Tersedia,2741150.17,2025-05-10
+851,PRD0851,Produk_851,Pakaian,481,Gudang C,Habis,831350.38,2025-05-02
+852,PRD0852,Produk_852,Otomotif,216,Gudang B,Tersedia,328760.04,2025-05-12
+853,PRD0853,Produk_853,Peralatan Rumah Tangga,305,Gudang C,Tersedia,1593770.36,2025-05-09
+854,PRD0854,Produk_854,Peralatan Rumah Tangga,284,Gudang A,Tersedia,1109392.3,2025-05-07
+855,PRD0855,Produk_855,Pakaian,184,Gudang A,Tersedia,2581372.89,2025-05-06
+856,PRD0856,Produk_856,Makanan & Minuman,38,Gudang B,Tersedia,520811.75,2025-05-12
+857,PRD0857,Produk_857,Elektronik,222,Gudang B,Tersedia,3761336.23,2025-05-05
+858,PRD0858,Produk_858,Otomotif,183,Gudang C,Tersedia,4532105.26,2025-05-03
+859,PRD0859,Produk_859,Elektronik,494,Gudang C,Tersedia,3719741.52,2025-05-12
+860,PRD0860,Produk_860,Makanan & Minuman,426,Gudang A,Tersedia,2668806.92,2025-05-15
+861,PRD0861,Produk_861,Otomotif,177,Gudang B,Tersedia,4304732.43,2025-05-15
+862,PRD0862,Produk_862,Pakaian,406,Gudang B,Segera Habis,3477642.72,2025-05-10
+863,PRD0863,Produk_863,Peralatan Rumah Tangga,427,Gudang B,Segera Habis,62650.1,2025-05-10
+864,PRD0864,Produk_864,Elektronik,293,Gudang C,Tersedia,1976509.86,2025-05-04
+865,PRD0865,Produk_865,Kesehatan,339,Gudang B,Segera Habis,4256249.98,2025-05-03
+866,PRD0866,Produk_866,Kesehatan,150,Gudang A,Habis,1735835.7,2025-05-12
+867,PRD0867,Produk_867,Makanan & Minuman,383,Gudang A,Tersedia,185723.72,2025-05-11
+868,PRD0868,Produk_868,Pakaian,125,Gudang C,Tersedia,3733436.4,2025-05-08
+869,PRD0869,Produk_869,Elektronik,300,Gudang C,Habis,4012170.97,2025-05-03
+870,PRD0870,Produk_870,Pakaian,307,Gudang B,Habis,811362.54,2025-05-07
+871,PRD0871,Produk_871,Elektronik,335,Gudang C,Tersedia,2691329.08,2025-05-07
+872,PRD0872,Produk_872,Makanan & Minuman,433,Gudang A,Habis,967857.64,2025-05-07
+873,PRD0873,Produk_873,Makanan & Minuman,233,Gudang B,Tersedia,3598979.75,2025-05-13
+874,PRD0874,Produk_874,Kesehatan,379,Gudang A,Habis,1365036.77,2025-05-07
+875,PRD0875,Produk_875,Pakaian,374,Gudang B,Segera Habis,1587913.46,2025-05-14
+876,PRD0876,Produk_876,Otomotif,7,Gudang C,Tersedia,4226404.56,2025-05-02
+877,PRD0877,Produk_877,Kesehatan,497,Gudang B,Habis,2386848.54,2025-05-10
+878,PRD0878,Produk_878,Pakaian,340,Gudang B,Tersedia,3352074.71,2025-05-03
+879,PRD0879,Produk_879,Kesehatan,128,Gudang A,Tersedia,2017841.52,2025-05-10
+880,PRD0880,Produk_880,Otomotif,263,Gudang A,Habis,1497054.22,2025-05-09
+881,PRD0881,Produk_881,Peralatan Rumah Tangga,156,Gudang B,Tersedia,3131135.52,2025-05-03
+882,PRD0882,Produk_882,Peralatan Rumah Tangga,351,Gudang C,Tersedia,782739.29,2025-05-02
+883,PRD0883,Produk_883,Peralatan Rumah Tangga,357,Gudang C,Tersedia,1871269.18,2025-05-09
+884,PRD0884,Produk_884,Peralatan Rumah Tangga,4,Gudang A,Tersedia,1053094.82,2025-05-13
+885,PRD0885,Produk_885,Elektronik,494,Gudang C,Tersedia,3482016.89,2025-05-10
+886,PRD0886,Produk_886,Peralatan Rumah Tangga,85,Gudang A,Habis,4721602.1,2025-05-09
+887,PRD0887,Produk_887,Otomotif,174,Gudang C,Tersedia,4977599.73,2025-05-04
+888,PRD0888,Produk_888,Makanan & Minuman,289,Gudang B,Tersedia,2256881.28,2025-05-14
+889,PRD0889,Produk_889,Makanan & Minuman,192,Gudang A,Tersedia,1270126.64,2025-05-12
+890,PRD0890,Produk_890,Elektronik,310,Gudang A,Habis,2219718.56,2025-05-09
+891,PRD0891,Produk_891,Peralatan Rumah Tangga,118,Gudang B,Segera Habis,4237874.36,2025-05-03
+892,PRD0892,Produk_892,Peralatan Rumah Tangga,217,Gudang A,Segera Habis,1037968.34,2025-05-07
+893,PRD0893,Produk_893,Peralatan Rumah Tangga,426,Gudang C,Habis,4760957.3,2025-05-07
+894,PRD0894,Produk_894,Kesehatan,457,Gudang C,Habis,1715910.19,2025-05-15
+895,PRD0895,Produk_895,Pakaian,413,Gudang A,Tersedia,4929160.26,2025-05-11
+896,PRD0896,Produk_896,Kesehatan,113,Gudang C,Tersedia,4194658.35,2025-05-08
+897,PRD0897,Produk_897,Pakaian,465,Gudang A,Tersedia,4044766.97,2025-05-10
+898,PRD0898,Produk_898,Peralatan Rumah Tangga,144,Gudang B,Habis,1596344.32,2025-05-15
+899,PRD0899,Produk_899,Peralatan Rumah Tangga,25,Gudang A,Segera Habis,53798.29,2025-05-04
+900,PRD0900,Produk_900,Kesehatan,135,Gudang B,Tersedia,1916843.22,2025-05-03
+901,PRD0901,Produk_901,Kesehatan,302,Gudang C,Segera Habis,1516028.75,2025-05-03
+902,PRD0902,Produk_902,Pakaian,231,Gudang B,Tersedia,196610.98,2025-05-15
+903,PRD0903,Produk_903,Makanan & Minuman,368,Gudang C,Tersedia,2531772.63,2025-05-12
+904,PRD0904,Produk_904,Pakaian,75,Gudang A,Tersedia,2021126.24,2025-05-05
+905,PRD0905,Produk_905,Kesehatan,474,Gudang C,Tersedia,3176436.77,2025-05-11
+906,PRD0906,Produk_906,Otomotif,327,Gudang A,Tersedia,3109719.75,2025-05-15
+907,PRD0907,Produk_907,Kesehatan,344,Gudang A,Tersedia,612525.71,2025-05-14
+908,PRD0908,Produk_908,Otomotif,301,Gudang B,Tersedia,4885058.08,2025-05-01
+909,PRD0909,Produk_909,Elektronik,451,Gudang B,Tersedia,942787.83,2025-05-10
+910,PRD0910,Produk_910,Kesehatan,288,Gudang B,Habis,2231917.38,2025-05-03
+911,PRD0911,Produk_911,Elektronik,0,Gudang B,Habis,2445706.54,2025-05-14
+912,PRD0912,Produk_912,Makanan & Minuman,146,Gudang C,Segera Habis,4067183.36,2025-05-06
+913,PRD0913,Produk_913,Pakaian,286,Gudang C,Tersedia,505155.68,2025-05-03
+914,PRD0914,Produk_914,Otomotif,463,Gudang C,Tersedia,2148934.95,2025-05-05
+915,PRD0915,Produk_915,Pakaian,141,Gudang A,Habis,3146225.83,2025-05-09
+916,PRD0916,Produk_916,Elektronik,52,Gudang C,Tersedia,1083626.55,2025-05-02
+917,PRD0917,Produk_917,Otomotif,303,Gudang C,Tersedia,3141064.81,2025-05-11
+918,PRD0918,Produk_918,Pakaian,68,Gudang C,Tersedia,4619087.54,2025-05-02
+919,PRD0919,Produk_919,Kesehatan,360,Gudang B,Tersedia,4987615.47,2025-05-12
+920,PRD0920,Produk_920,Peralatan Rumah Tangga,89,Gudang C,Tersedia,171930.87,2025-05-06
+921,PRD0921,Produk_921,Elektronik,445,Gudang A,Tersedia,1185585.26,2025-05-06
+922,PRD0922,Produk_922,Pakaian,219,Gudang B,Tersedia,1558432.51,2025-05-11
+923,PRD0923,Produk_923,Elektronik,449,Gudang A,Tersedia,2001639.24,2025-05-11
+924,PRD0924,Produk_924,Elektronik,497,Gudang C,Tersedia,1218863.22,2025-05-08
+925,PRD0925,Produk_925,Otomotif,191,Gudang B,Tersedia,1025405.09,2025-05-12
+926,PRD0926,Produk_926,Otomotif,453,Gudang A,Tersedia,4773223.67,2025-05-13
+927,PRD0927,Produk_927,Peralatan Rumah Tangga,62,Gudang C,Tersedia,4593422.8,2025-05-11
+928,PRD0928,Produk_928,Kesehatan,72,Gudang A,Tersedia,244492.58,2025-05-14
+929,PRD0929,Produk_929,Elektronik,160,Gudang A,Tersedia,1700676.98,2025-05-02
+930,PRD0930,Produk_930,Pakaian,168,Gudang A,Tersedia,2031691.28,2025-05-09
+931,PRD0931,Produk_931,Makanan & Minuman,88,Gudang C,Tersedia,1202682.53,2025-05-15
+932,PRD0932,Produk_932,Elektronik,175,Gudang C,Tersedia,3148075.76,2025-05-02
+933,PRD0933,Produk_933,Elektronik,268,Gudang A,Segera Habis,3205499.93,2025-05-13
+934,PRD0934,Produk_934,Peralatan Rumah Tangga,72,Gudang B,Tersedia,4254016.1,2025-05-01
+935,PRD0935,Produk_935,Kesehatan,244,Gudang B,Tersedia,3706937.65,2025-05-10
+936,PRD0936,Produk_936,Makanan & Minuman,76,Gudang C,Tersedia,2717440.9,2025-05-02
+937,PRD0937,Produk_937,Otomotif,158,Gudang C,Tersedia,3271397.98,2025-05-12
+938,PRD0938,Produk_938,Otomotif,488,Gudang C,Tersedia,1377204.02,2025-05-07
+939,PRD0939,Produk_939,Pakaian,458,Gudang C,Tersedia,2969350.39,2025-05-08
+940,PRD0940,Produk_940,Makanan & Minuman,323,Gudang C,Habis,2451244.0,2025-05-05
+941,PRD0941,Produk_941,Otomotif,97,Gudang B,Tersedia,675388.89,2025-05-06
+942,PRD0942,Produk_942,Pakaian,380,Gudang C,Tersedia,1220295.94,2025-05-12
+943,PRD0943,Produk_943,Kesehatan,101,Gudang A,Tersedia,1465550.32,2025-05-01
+944,PRD0944,Produk_944,Pakaian,493,Gudang A,Habis,4622304.74,2025-05-15
+945,PRD0945,Produk_945,Otomotif,131,Gudang B,Tersedia,1159629.33,2025-05-06
+946,PRD0946,Produk_946,Peralatan Rumah Tangga,101,Gudang A,Segera Habis,1453327.08,2025-05-12
+947,PRD0947,Produk_947,Peralatan Rumah Tangga,18,Gudang B,Tersedia,1853077.11,2025-05-15
+948,PRD0948,Produk_948,Peralatan Rumah Tangga,453,Gudang B,Segera Habis,3322076.27,2025-05-08
+949,PRD0949,Produk_949,Otomotif,481,Gudang A,Segera Habis,600009.58,2025-05-13
+950,PRD0950,Produk_950,Peralatan Rumah Tangga,81,Gudang C,Tersedia,4770186.61,2025-05-03
+951,PRD0951,Produk_951,Makanan & Minuman,396,Gudang A,Tersedia,4329200.39,2025-05-11
+952,PRD0952,Produk_952,Kesehatan,488,Gudang A,Tersedia,2890308.2,2025-05-01
+953,PRD0953,Produk_953,Pakaian,278,Gudang B,Tersedia,3373448.96,2025-05-11
+954,PRD0954,Produk_954,Pakaian,338,Gudang A,Habis,93135.75,2025-05-04
+955,PRD0955,Produk_955,Otomotif,364,Gudang B,Tersedia,1701334.43,2025-05-01
+956,PRD0956,Produk_956,Peralatan Rumah Tangga,330,Gudang C,Tersedia,3980344.55,2025-05-14
+957,PRD0957,Produk_957,Peralatan Rumah Tangga,128,Gudang C,Tersedia,396640.04,2025-05-08
+958,PRD0958,Produk_958,Elektronik,343,Gudang C,Segera Habis,1418746.03,2025-05-05
+959,PRD0959,Produk_959,Kesehatan,309,Gudang A,Tersedia,2930631.17,2025-05-01
+960,PRD0960,Produk_960,Makanan & Minuman,454,Gudang B,Tersedia,1289501.01,2025-05-14
+961,PRD0961,Produk_961,Pakaian,88,Gudang C,Tersedia,4670550.09,2025-05-08
+962,PRD0962,Produk_962,Elektronik,212,Gudang B,Segera Habis,663982.57,2025-05-09
+963,PRD0963,Produk_963,Elektronik,142,Gudang B,Tersedia,3988997.85,2025-05-10
+964,PRD0964,Produk_964,Otomotif,64,Gudang C,Tersedia,2544663.97,2025-05-02
+965,PRD0965,Produk_965,Pakaian,75,Gudang C,Tersedia,3754150.57,2025-05-09
+966,PRD0966,Produk_966,Otomotif,198,Gudang B,Tersedia,1560469.49,2025-05-08
+967,PRD0967,Produk_967,Makanan & Minuman,142,Gudang C,Tersedia,2577303.12,2025-05-07
+968,PRD0968,Produk_968,Elektronik,404,Gudang B,Segera Habis,4285608.4,2025-05-03
+969,PRD0969,Produk_969,Elektronik,402,Gudang B,Habis,2339721.71,2025-05-02
+970,PRD0970,Produk_970,Kesehatan,315,Gudang C,Tersedia,1805002.11,2025-05-07
+971,PRD0971,Produk_971,Makanan & Minuman,92,Gudang A,Habis,2685415.38,2025-05-15
+972,PRD0972,Produk_972,Elektronik,472,Gudang C,Tersedia,3589640.14,2025-05-05
+973,PRD0973,Produk_973,Makanan & Minuman,416,Gudang A,Habis,2223381.09,2025-05-06
+974,PRD0974,Produk_974,Pakaian,304,Gudang B,Habis,4694996.11,2025-05-04
+975,PRD0975,Produk_975,Peralatan Rumah Tangga,223,Gudang B,Tersedia,1481779.66,2025-05-02
+976,PRD0976,Produk_976,Elektronik,496,Gudang A,Habis,2382563.39,2025-05-09
+977,PRD0977,Produk_977,Kesehatan,290,Gudang B,Tersedia,3787069.02,2025-05-03
+978,PRD0978,Produk_978,Pakaian,427,Gudang A,Tersedia,3448714.24,2025-05-12
+979,PRD0979,Produk_979,Makanan & Minuman,101,Gudang A,Tersedia,4319568.85,2025-05-14
+980,PRD0980,Produk_980,Otomotif,473,Gudang B,Tersedia,4984077.81,2025-05-07
+981,PRD0981,Produk_981,Pakaian,266,Gudang A,Habis,2140023.06,2025-05-14
+982,PRD0982,Produk_982,Elektronik,354,Gudang C,Segera Habis,564642.89,2025-05-08
+983,PRD0983,Produk_983,Makanan & Minuman,455,Gudang C,Tersedia,161775.25,2025-05-02
+984,PRD0984,Produk_984,Peralatan Rumah Tangga,109,Gudang B,Habis,3637115.76,2025-05-14
+985,PRD0985,Produk_985,Pakaian,461,Gudang B,Habis,4371328.22,2025-05-06
+986,PRD0986,Produk_986,Elektronik,329,Gudang A,Tersedia,1111355.8,2025-05-11
+987,PRD0987,Produk_987,Kesehatan,449,Gudang A,Tersedia,800655.71,2025-05-08
+988,PRD0988,Produk_988,Otomotif,429,Gudang A,Tersedia,320403.41,2025-05-07
+989,PRD0989,Produk_989,Makanan & Minuman,264,Gudang A,Tersedia,4115287.58,2025-05-11
+990,PRD0990,Produk_990,Pakaian,2,Gudang C,Segera Habis,1563795.88,2025-05-03
+991,PRD0991,Produk_991,Pakaian,84,Gudang C,Tersedia,2014467.49,2025-05-01
+992,PRD0992,Produk_992,Peralatan Rumah Tangga,281,Gudang B,Habis,2518723.46,2025-05-14
+993,PRD0993,Produk_993,Peralatan Rumah Tangga,327,Gudang A,Tersedia,4198871.64,2025-05-06
+994,PRD0994,Produk_994,Kesehatan,303,Gudang A,Tersedia,3257657.78,2025-05-08
+995,PRD0995,Produk_995,Otomotif,449,Gudang B,Tersedia,3079172.5,2025-05-06
+996,PRD0996,Produk_996,Kesehatan,453,Gudang A,Tersedia,886603.78,2025-05-05
+997,PRD0997,Produk_997,Elektronik,411,Gudang A,Tersedia,2570817.56,2025-05-11
+998,PRD0998,Produk_998,Elektronik,116,Gudang A,Tersedia,3579751.28,2025-05-12
+999,PRD0999,Produk_999,Kesehatan,220,Gudang A,Tersedia,4866571.81,2025-05-08
+1000,PRD1000,Produk_1000,Otomotif,153,Gudang A,Tersedia,1015017.48,2025-05-02
+1001,PRD1001,Produk_1001,Kesehatan,152,Gudang B,Tersedia,57621.33,2025-05-15
+1002,PRD1002,Produk_1002,Otomotif,11,Gudang A,Habis,385754.15,2025-05-12
+1003,PRD1003,Produk_1003,Otomotif,132,Gudang B,Tersedia,1885503.8,2025-05-15
+1004,PRD1004,Produk_1004,Makanan & Minuman,481,Gudang A,Tersedia,4104517.79,2025-05-01
+1005,PRD1005,Produk_1005,Otomotif,303,Gudang C,Tersedia,45638.99,2025-05-01
+1006,PRD1006,Produk_1006,Peralatan Rumah Tangga,292,Gudang C,Tersedia,2289085.66,2025-05-15
+1007,PRD1007,Produk_1007,Otomotif,462,Gudang C,Segera Habis,1652860.77,2025-05-14
+1008,PRD1008,Produk_1008,Otomotif,299,Gudang C,Tersedia,271883.73,2025-05-04
+1009,PRD1009,Produk_1009,Otomotif,227,Gudang B,Tersedia,2256679.07,2025-05-06
+1010,PRD1010,Produk_1010,Elektronik,270,Gudang B,Habis,1281196.05,2025-05-13
+1011,PRD1011,Produk_1011,Peralatan Rumah Tangga,42,Gudang A,Tersedia,1765905.32,2025-05-09
+1012,PRD1012,Produk_1012,Peralatan Rumah Tangga,431,Gudang C,Tersedia,3531020.37,2025-05-01
+1013,PRD1013,Produk_1013,Kesehatan,342,Gudang B,Tersedia,2612539.41,2025-05-12
+1014,PRD1014,Produk_1014,Makanan & Minuman,325,Gudang A,Tersedia,631990.67,2025-05-01
+1015,PRD1015,Produk_1015,Otomotif,301,Gudang A,Tersedia,4807458.56,2025-05-13
+1016,PRD1016,Produk_1016,Pakaian,497,Gudang B,Tersedia,3183194.72,2025-05-13
+1017,PRD1017,Produk_1017,Makanan & Minuman,363,Gudang C,Habis,3831683.44,2025-05-05
+1018,PRD1018,Produk_1018,Makanan & Minuman,378,Gudang A,Habis,405273.62,2025-05-10
+1019,PRD1019,Produk_1019,Peralatan Rumah Tangga,426,Gudang C,Tersedia,244821.31,2025-05-05
+1020,PRD1020,Produk_1020,Makanan & Minuman,492,Gudang C,Tersedia,107045.77,2025-05-05
+1021,PRD1021,Produk_1021,Otomotif,20,Gudang C,Habis,952082.2,2025-05-10
+1022,PRD1022,Produk_1022,Otomotif,406,Gudang A,Tersedia,2077897.9,2025-05-06
+1023,PRD1023,Produk_1023,Elektronik,106,Gudang C,Habis,4679772.41,2025-05-08
+1024,PRD1024,Produk_1024,Otomotif,335,Gudang A,Habis,2290727.7,2025-05-03
+1025,PRD1025,Produk_1025,Otomotif,302,Gudang C,Habis,1458372.98,2025-05-09
+1026,PRD1026,Produk_1026,Peralatan Rumah Tangga,116,Gudang A,Tersedia,2814056.92,2025-05-13
+1027,PRD1027,Produk_1027,Otomotif,123,Gudang C,Tersedia,568553.54,2025-05-01
+1028,PRD1028,Produk_1028,Elektronik,398,Gudang B,Tersedia,3051434.4,2025-05-04
+1029,PRD1029,Produk_1029,Pakaian,280,Gudang C,Habis,2846475.45,2025-05-09
+1030,PRD1030,Produk_1030,Peralatan Rumah Tangga,291,Gudang C,Tersedia,3962045.24,2025-05-15
+1031,PRD1031,Produk_1031,Pakaian,202,Gudang A,Habis,4933571.18,2025-05-14
+1032,PRD1032,Produk_1032,Peralatan Rumah Tangga,50,Gudang A,Tersedia,1261858.62,2025-05-08
+1033,PRD1033,Produk_1033,Kesehatan,270,Gudang C,Tersedia,2553185.69,2025-05-10
+1034,PRD1034,Produk_1034,Makanan & Minuman,323,Gudang B,Tersedia,4545238.38,2025-05-09
+1035,PRD1035,Produk_1035,Kesehatan,276,Gudang B,Tersedia,3928097.52,2025-05-01
+1036,PRD1036,Produk_1036,Otomotif,140,Gudang A,Tersedia,2442157.45,2025-05-09
+1037,PRD1037,Produk_1037,Pakaian,469,Gudang B,Tersedia,4727404.53,2025-05-03
+1038,PRD1038,Produk_1038,Otomotif,274,Gudang C,Segera Habis,295611.1,2025-05-11
+1039,PRD1039,Produk_1039,Makanan & Minuman,289,Gudang A,Tersedia,4655683.11,2025-05-12
+1040,PRD1040,Produk_1040,Peralatan Rumah Tangga,333,Gudang C,Tersedia,262031.89,2025-05-10
+1041,PRD1041,Produk_1041,Makanan & Minuman,380,Gudang A,Tersedia,2741050.67,2025-05-09
+1042,PRD1042,Produk_1042,Elektronik,451,Gudang A,Habis,4453300.33,2025-05-01
+1043,PRD1043,Produk_1043,Makanan & Minuman,495,Gudang A,Habis,1320977.51,2025-05-01
+1044,PRD1044,Produk_1044,Elektronik,372,Gudang A,Tersedia,2366520.01,2025-05-09
+1045,PRD1045,Produk_1045,Makanan & Minuman,51,Gudang B,Habis,1628401.11,2025-05-11
+1046,PRD1046,Produk_1046,Elektronik,493,Gudang C,Habis,4761198.15,2025-05-14
+1047,PRD1047,Produk_1047,Pakaian,26,Gudang C,Tersedia,4119991.52,2025-05-06
+1048,PRD1048,Produk_1048,Otomotif,156,Gudang C,Tersedia,3547917.54,2025-05-04
+1049,PRD1049,Produk_1049,Otomotif,238,Gudang A,Tersedia,2942258.66,2025-05-07
+1050,PRD1050,Produk_1050,Kesehatan,155,Gudang B,Tersedia,4104753.03,2025-05-05
+1051,PRD1051,Produk_1051,Otomotif,290,Gudang C,Habis,1967412.54,2025-05-10
+1052,PRD1052,Produk_1052,Peralatan Rumah Tangga,135,Gudang B,Tersedia,2243283.76,2025-05-14
+1053,PRD1053,Produk_1053,Makanan & Minuman,143,Gudang A,Segera Habis,3652708.59,2025-05-07
+1054,PRD1054,Produk_1054,Kesehatan,105,Gudang C,Tersedia,1795196.27,2025-05-08
+1055,PRD1055,Produk_1055,Peralatan Rumah Tangga,419,Gudang B,Tersedia,328865.7,2025-05-08
+1056,PRD1056,Produk_1056,Peralatan Rumah Tangga,157,Gudang A,Tersedia,380929.7,2025-05-01
+1057,PRD1057,Produk_1057,Elektronik,145,Gudang B,Tersedia,585660.38,2025-05-08
+1058,PRD1058,Produk_1058,Otomotif,1,Gudang C,Habis,4349709.8,2025-05-06
+1059,PRD1059,Produk_1059,Pakaian,432,Gudang C,Habis,2366409.86,2025-05-04
+1060,PRD1060,Produk_1060,Pakaian,76,Gudang A,Tersedia,3567283.02,2025-05-13
+1061,PRD1061,Produk_1061,Kesehatan,131,Gudang A,Tersedia,1970617.58,2025-05-14
+1062,PRD1062,Produk_1062,Pakaian,89,Gudang A,Tersedia,1300967.63,2025-05-12
+1063,PRD1063,Produk_1063,Makanan & Minuman,344,Gudang B,Tersedia,1742488.92,2025-05-08
+1064,PRD1064,Produk_1064,Pakaian,349,Gudang B,Tersedia,3972969.9,2025-05-03
+1065,PRD1065,Produk_1065,Kesehatan,458,Gudang B,Tersedia,3129828.46,2025-05-13
+1066,PRD1066,Produk_1066,Pakaian,262,Gudang A,Tersedia,4688822.5,2025-05-04
+1067,PRD1067,Produk_1067,Makanan & Minuman,350,Gudang C,Segera Habis,3401726.85,2025-05-15
+1068,PRD1068,Produk_1068,Elektronik,107,Gudang C,Tersedia,2855206.34,2025-05-06
+1069,PRD1069,Produk_1069,Kesehatan,73,Gudang B,Tersedia,3054878.08,2025-05-11
+1070,PRD1070,Produk_1070,Elektronik,38,Gudang B,Tersedia,4712433.48,2025-05-07
+1071,PRD1071,Produk_1071,Elektronik,396,Gudang C,Tersedia,3943122.64,2025-05-04
+1072,PRD1072,Produk_1072,Elektronik,158,Gudang C,Tersedia,129965.77,2025-05-04
+1073,PRD1073,Produk_1073,Peralatan Rumah Tangga,70,Gudang B,Segera Habis,2675357.08,2025-05-07
+1074,PRD1074,Produk_1074,Otomotif,446,Gudang B,Habis,3444808.67,2025-05-06
+1075,PRD1075,Produk_1075,Peralatan Rumah Tangga,311,Gudang C,Tersedia,3746005.41,2025-05-13
+1076,PRD1076,Produk_1076,Otomotif,240,Gudang A,Tersedia,1073579.18,2025-05-11
+1077,PRD1077,Produk_1077,Elektronik,425,Gudang B,Tersedia,4337215.0,2025-05-08
+1078,PRD1078,Produk_1078,Kesehatan,444,Gudang C,Habis,4779657.3,2025-05-01
+1079,PRD1079,Produk_1079,Otomotif,297,Gudang C,Tersedia,1191209.38,2025-05-10
+1080,PRD1080,Produk_1080,Makanan & Minuman,439,Gudang C,Tersedia,4414251.13,2025-05-13
+1081,PRD1081,Produk_1081,Makanan & Minuman,35,Gudang C,Tersedia,493924.02,2025-05-11
+1082,PRD1082,Produk_1082,Pakaian,83,Gudang A,Tersedia,287977.11,2025-05-07
+1083,PRD1083,Produk_1083,Otomotif,451,Gudang C,Tersedia,654826.76,2025-05-12
+1084,PRD1084,Produk_1084,Kesehatan,373,Gudang B,Segera Habis,298127.99,2025-05-07
+1085,PRD1085,Produk_1085,Peralatan Rumah Tangga,262,Gudang A,Tersedia,4226611.06,2025-05-11
+1086,PRD1086,Produk_1086,Elektronik,309,Gudang C,Tersedia,304660.22,2025-05-07
+1087,PRD1087,Produk_1087,Pakaian,384,Gudang A,Tersedia,1365604.31,2025-05-07
+1088,PRD1088,Produk_1088,Makanan & Minuman,171,Gudang B,Habis,527744.15,2025-05-10
+1089,PRD1089,Produk_1089,Peralatan Rumah Tangga,375,Gudang C,Segera Habis,1484155.96,2025-05-14
+1090,PRD1090,Produk_1090,Peralatan Rumah Tangga,172,Gudang B,Tersedia,461891.74,2025-05-10
+1091,PRD1091,Produk_1091,Elektronik,361,Gudang C,Habis,3343336.22,2025-05-08
+1092,PRD1092,Produk_1092,Otomotif,46,Gudang C,Tersedia,675300.81,2025-05-09
+1093,PRD1093,Produk_1093,Makanan & Minuman,378,Gudang C,Tersedia,4260711.17,2025-05-09
+1094,PRD1094,Produk_1094,Kesehatan,140,Gudang C,Tersedia,4087783.34,2025-05-02
+1095,PRD1095,Produk_1095,Peralatan Rumah Tangga,374,Gudang C,Tersedia,78171.81,2025-05-13
+1096,PRD1096,Produk_1096,Elektronik,405,Gudang A,Tersedia,4479674.51,2025-05-13
+1097,PRD1097,Produk_1097,Kesehatan,117,Gudang C,Tersedia,154432.14,2025-05-07
+1098,PRD1098,Produk_1098,Otomotif,276,Gudang C,Tersedia,1205832.47,2025-05-07
+1099,PRD1099,Produk_1099,Makanan & Minuman,213,Gudang A,Segera Habis,171621.8,2025-05-04
+1100,PRD1100,Produk_1100,Otomotif,219,Gudang A,Tersedia,1685859.0,2025-05-09
+1101,PRD1101,Produk_1101,Peralatan Rumah Tangga,392,Gudang A,Tersedia,2574193.96,2025-05-08
+1102,PRD1102,Produk_1102,Kesehatan,25,Gudang A,Tersedia,3985257.9,2025-05-12
+1103,PRD1103,Produk_1103,Kesehatan,8,Gudang A,Habis,1696527.94,2025-05-01
+1104,PRD1104,Produk_1104,Kesehatan,270,Gudang A,Tersedia,3530395.22,2025-05-02
+1105,PRD1105,Produk_1105,Peralatan Rumah Tangga,9,Gudang C,Tersedia,945647.24,2025-05-13
+1106,PRD1106,Produk_1106,Peralatan Rumah Tangga,471,Gudang C,Segera Habis,3755486.3,2025-05-15
+1107,PRD1107,Produk_1107,Otomotif,377,Gudang B,Tersedia,1187623.06,2025-05-13
+1108,PRD1108,Produk_1108,Pakaian,120,Gudang C,Tersedia,726288.33,2025-05-02
+1109,PRD1109,Produk_1109,Otomotif,124,Gudang C,Habis,935190.16,2025-05-12
+1110,PRD1110,Produk_1110,Makanan & Minuman,169,Gudang A,Tersedia,918495.01,2025-05-12
+1111,PRD1111,Produk_1111,Elektronik,71,Gudang A,Tersedia,2569185.77,2025-05-11
+1112,PRD1112,Produk_1112,Kesehatan,151,Gudang C,Tersedia,4225539.93,2025-05-15
+1113,PRD1113,Produk_1113,Pakaian,207,Gudang B,Tersedia,407229.33,2025-05-15
+1114,PRD1114,Produk_1114,Elektronik,48,Gudang A,Tersedia,3537712.03,2025-05-08
+1115,PRD1115,Produk_1115,Pakaian,153,Gudang C,Tersedia,3275188.83,2025-05-15
+1116,PRD1116,Produk_1116,Otomotif,346,Gudang C,Tersedia,4363874.56,2025-05-01
+1117,PRD1117,Produk_1117,Peralatan Rumah Tangga,292,Gudang B,Tersedia,1228296.33,2025-05-04
+1118,PRD1118,Produk_1118,Kesehatan,67,Gudang B,Habis,2256048.19,2025-05-10
+1119,PRD1119,Produk_1119,Otomotif,49,Gudang A,Tersedia,4629878.6,2025-05-12
+1120,PRD1120,Produk_1120,Elektronik,151,Gudang B,Tersedia,3303367.32,2025-05-05
+1121,PRD1121,Produk_1121,Elektronik,18,Gudang C,Habis,1949954.38,2025-05-09
+1122,PRD1122,Produk_1122,Elektronik,99,Gudang C,Tersedia,665747.79,2025-05-07
+1123,PRD1123,Produk_1123,Elektronik,59,Gudang B,Tersedia,1319800.19,2025-05-08
+1124,PRD1124,Produk_1124,Elektronik,166,Gudang B,Segera Habis,2910265.23,2025-05-14
+1125,PRD1125,Produk_1125,Pakaian,201,Gudang B,Tersedia,3593658.06,2025-05-11
+1126,PRD1126,Produk_1126,Otomotif,344,Gudang B,Tersedia,630865.22,2025-05-09
+1127,PRD1127,Produk_1127,Kesehatan,145,Gudang A,Habis,3001990.33,2025-05-13
+1128,PRD1128,Produk_1128,Peralatan Rumah Tangga,402,Gudang B,Tersedia,2756252.88,2025-05-07
+1129,PRD1129,Produk_1129,Peralatan Rumah Tangga,163,Gudang A,Tersedia,2574637.68,2025-05-05
+1130,PRD1130,Produk_1130,Otomotif,457,Gudang C,Tersedia,3453714.36,2025-05-13
+1131,PRD1131,Produk_1131,Otomotif,480,Gudang B,Tersedia,4188873.48,2025-05-15
+1132,PRD1132,Produk_1132,Peralatan Rumah Tangga,438,Gudang A,Tersedia,1621718.52,2025-05-05
+1133,PRD1133,Produk_1133,Peralatan Rumah Tangga,241,Gudang B,Segera Habis,4446170.83,2025-05-10
+1134,PRD1134,Produk_1134,Pakaian,68,Gudang C,Tersedia,811561.73,2025-05-11
+1135,PRD1135,Produk_1135,Makanan & Minuman,174,Gudang C,Habis,873389.11,2025-05-06
+1136,PRD1136,Produk_1136,Kesehatan,48,Gudang C,Tersedia,1341192.6,2025-05-05
+1137,PRD1137,Produk_1137,Elektronik,482,Gudang B,Habis,606459.04,2025-05-13
+1138,PRD1138,Produk_1138,Makanan & Minuman,107,Gudang B,Habis,1159292.93,2025-05-12
+1139,PRD1139,Produk_1139,Otomotif,225,Gudang A,Tersedia,540994.7,2025-05-11
+1140,PRD1140,Produk_1140,Peralatan Rumah Tangga,160,Gudang C,Tersedia,4110544.56,2025-05-09
+1141,PRD1141,Produk_1141,Makanan & Minuman,118,Gudang B,Tersedia,703455.27,2025-05-03
+1142,PRD1142,Produk_1142,Kesehatan,148,Gudang C,Tersedia,3739014.81,2025-05-03
+1143,PRD1143,Produk_1143,Otomotif,464,Gudang C,Habis,249090.2,2025-05-15
+1144,PRD1144,Produk_1144,Elektronik,149,Gudang A,Habis,4743116.43,2025-05-07
+1145,PRD1145,Produk_1145,Elektronik,431,Gudang A,Tersedia,3558688.84,2025-05-07
+1146,PRD1146,Produk_1146,Kesehatan,292,Gudang A,Tersedia,43914.78,2025-05-06
+1147,PRD1147,Produk_1147,Kesehatan,142,Gudang A,Tersedia,3821643.94,2025-05-03
+1148,PRD1148,Produk_1148,Peralatan Rumah Tangga,418,Gudang C,Tersedia,2575268.78,2025-05-14
+1149,PRD1149,Produk_1149,Elektronik,475,Gudang A,Tersedia,3899032.2,2025-05-13
+1150,PRD1150,Produk_1150,Otomotif,454,Gudang A,Habis,2617259.08,2025-05-07
+1151,PRD1151,Produk_1151,Makanan & Minuman,159,Gudang A,Segera Habis,3208714.04,2025-05-05
+1152,PRD1152,Produk_1152,Otomotif,10,Gudang A,Tersedia,3933794.96,2025-05-07
+1153,PRD1153,Produk_1153,Pakaian,137,Gudang C,Tersedia,2031489.19,2025-05-02
+1154,PRD1154,Produk_1154,Pakaian,456,Gudang A,Tersedia,23513.67,2025-05-06
+1155,PRD1155,Produk_1155,Kesehatan,77,Gudang C,Tersedia,4251233.01,2025-05-14
+1156,PRD1156,Produk_1156,Peralatan Rumah Tangga,76,Gudang B,Tersedia,1910642.91,2025-05-08
+1157,PRD1157,Produk_1157,Pakaian,440,Gudang C,Tersedia,2485253.2,2025-05-01
+1158,PRD1158,Produk_1158,Elektronik,253,Gudang C,Habis,48755.54,2025-05-04
+1159,PRD1159,Produk_1159,Otomotif,408,Gudang A,Tersedia,2465539.13,2025-05-11
+1160,PRD1160,Produk_1160,Otomotif,257,Gudang B,Tersedia,4932572.13,2025-05-01
+1161,PRD1161,Produk_1161,Kesehatan,319,Gudang B,Segera Habis,1398555.63,2025-05-14
+1162,PRD1162,Produk_1162,Makanan & Minuman,290,Gudang B,Habis,1983137.17,2025-05-01
+1163,PRD1163,Produk_1163,Kesehatan,262,Gudang B,Tersedia,3439078.08,2025-05-10
+1164,PRD1164,Produk_1164,Makanan & Minuman,84,Gudang C,Tersedia,4075820.4,2025-05-12
+1165,PRD1165,Produk_1165,Kesehatan,145,Gudang B,Tersedia,2092784.2,2025-05-14
+1166,PRD1166,Produk_1166,Kesehatan,322,Gudang C,Habis,1555247.66,2025-05-14
+1167,PRD1167,Produk_1167,Kesehatan,41,Gudang C,Habis,4689750.74,2025-05-11
+1168,PRD1168,Produk_1168,Makanan & Minuman,373,Gudang C,Tersedia,3388953.38,2025-05-08
+1169,PRD1169,Produk_1169,Makanan & Minuman,124,Gudang B,Tersedia,603916.31,2025-05-07
+1170,PRD1170,Produk_1170,Kesehatan,166,Gudang A,Habis,353950.11,2025-05-12
+1171,PRD1171,Produk_1171,Pakaian,424,Gudang A,Tersedia,2422913.76,2025-05-10
+1172,PRD1172,Produk_1172,Peralatan Rumah Tangga,240,Gudang B,Tersedia,1108249.43,2025-05-13
+1173,PRD1173,Produk_1173,Peralatan Rumah Tangga,458,Gudang A,Tersedia,1277383.92,2025-05-01
+1174,PRD1174,Produk_1174,Peralatan Rumah Tangga,486,Gudang A,Tersedia,4389683.97,2025-05-11
+1175,PRD1175,Produk_1175,Makanan & Minuman,279,Gudang C,Tersedia,456934.46,2025-05-14
+1176,PRD1176,Produk_1176,Makanan & Minuman,187,Gudang C,Habis,3579666.93,2025-05-13
+1177,PRD1177,Produk_1177,Pakaian,301,Gudang B,Segera Habis,1362999.84,2025-05-02
+1178,PRD1178,Produk_1178,Peralatan Rumah Tangga,18,Gudang B,Tersedia,3804037.82,2025-05-04
+1179,PRD1179,Produk_1179,Peralatan Rumah Tangga,67,Gudang A,Tersedia,3614832.81,2025-05-01
+1180,PRD1180,Produk_1180,Kesehatan,217,Gudang C,Tersedia,46885.59,2025-05-03
+1181,PRD1181,Produk_1181,Makanan & Minuman,101,Gudang B,Tersedia,2550585.71,2025-05-08
+1182,PRD1182,Produk_1182,Peralatan Rumah Tangga,41,Gudang B,Tersedia,705204.22,2025-05-08
+1183,PRD1183,Produk_1183,Otomotif,287,Gudang B,Segera Habis,4332472.88,2025-05-08
+1184,PRD1184,Produk_1184,Pakaian,166,Gudang B,Tersedia,4359213.56,2025-05-06
+1185,PRD1185,Produk_1185,Otomotif,108,Gudang B,Tersedia,2097545.58,2025-05-06
+1186,PRD1186,Produk_1186,Otomotif,493,Gudang B,Tersedia,2227534.14,2025-05-05
+1187,PRD1187,Produk_1187,Pakaian,35,Gudang A,Habis,1523381.87,2025-05-13
+1188,PRD1188,Produk_1188,Otomotif,231,Gudang C,Habis,3585865.43,2025-05-09
+1189,PRD1189,Produk_1189,Peralatan Rumah Tangga,228,Gudang C,Segera Habis,1799720.2,2025-05-04
+1190,PRD1190,Produk_1190,Makanan & Minuman,352,Gudang B,Habis,1346284.45,2025-05-10
+1191,PRD1191,Produk_1191,Pakaian,163,Gudang C,Tersedia,2166832.99,2025-05-15
+1192,PRD1192,Produk_1192,Kesehatan,386,Gudang C,Tersedia,466522.72,2025-05-12
+1193,PRD1193,Produk_1193,Otomotif,72,Gudang C,Tersedia,3735549.99,2025-05-12
+1194,PRD1194,Produk_1194,Pakaian,135,Gudang B,Tersedia,72856.04,2025-05-12
+1195,PRD1195,Produk_1195,Elektronik,352,Gudang B,Tersedia,3225980.46,2025-05-07
+1196,PRD1196,Produk_1196,Elektronik,378,Gudang C,Tersedia,922493.99,2025-05-01
+1197,PRD1197,Produk_1197,Makanan & Minuman,69,Gudang C,Tersedia,1169696.19,2025-05-15
+1198,PRD1198,Produk_1198,Peralatan Rumah Tangga,424,Gudang B,Tersedia,3181803.67,2025-05-09
+1199,PRD1199,Produk_1199,Makanan & Minuman,486,Gudang A,Tersedia,4964787.89,2025-05-07
+1200,PRD1200,Produk_1200,Makanan & Minuman,195,Gudang C,Habis,3890810.27,2025-05-10
+1201,PRD1201,Produk_1201,Makanan & Minuman,268,Gudang A,Tersedia,1136939.76,2025-05-12
+1202,PRD1202,Produk_1202,Makanan & Minuman,48,Gudang C,Tersedia,888363.53,2025-05-09
+1203,PRD1203,Produk_1203,Kesehatan,315,Gudang A,Tersedia,4332502.02,2025-05-07
+1204,PRD1204,Produk_1204,Kesehatan,129,Gudang A,Tersedia,2226477.9,2025-05-02
+1205,PRD1205,Produk_1205,Pakaian,443,Gudang A,Tersedia,693893.49,2025-05-15
+1206,PRD1206,Produk_1206,Elektronik,4,Gudang B,Tersedia,4312435.0,2025-05-06
+1207,PRD1207,Produk_1207,Makanan & Minuman,427,Gudang A,Tersedia,4082300.84,2025-05-10
+1208,PRD1208,Produk_1208,Pakaian,26,Gudang A,Tersedia,4919692.76,2025-05-12
+1209,PRD1209,Produk_1209,Elektronik,159,Gudang A,Tersedia,4549621.0,2025-05-11
+1210,PRD1210,Produk_1210,Otomotif,148,Gudang C,Tersedia,4260433.79,2025-05-04
+1211,PRD1211,Produk_1211,Peralatan Rumah Tangga,263,Gudang A,Tersedia,272346.25,2025-05-03
+1212,PRD1212,Produk_1212,Kesehatan,229,Gudang C,Tersedia,531032.69,2025-05-02
+1213,PRD1213,Produk_1213,Otomotif,199,Gudang A,Tersedia,2849226.14,2025-05-06
+1214,PRD1214,Produk_1214,Elektronik,49,Gudang A,Tersedia,2662081.44,2025-05-08
+1215,PRD1215,Produk_1215,Otomotif,66,Gudang B,Tersedia,2295236.44,2025-05-06
+1216,PRD1216,Produk_1216,Peralatan Rumah Tangga,299,Gudang C,Tersedia,1989978.73,2025-05-09
+1217,PRD1217,Produk_1217,Elektronik,380,Gudang A,Tersedia,2161740.32,2025-05-14
+1218,PRD1218,Produk_1218,Otomotif,57,Gudang C,Tersedia,2850796.69,2025-05-05
+1219,PRD1219,Produk_1219,Kesehatan,258,Gudang C,Habis,20361.82,2025-05-02
+1220,PRD1220,Produk_1220,Kesehatan,341,Gudang B,Habis,1310936.78,2025-05-08
+1221,PRD1221,Produk_1221,Pakaian,325,Gudang B,Habis,2596215.81,2025-05-09
+1222,PRD1222,Produk_1222,Otomotif,129,Gudang B,Tersedia,3613858.33,2025-05-14
+1223,PRD1223,Produk_1223,Makanan & Minuman,214,Gudang B,Tersedia,879041.9,2025-05-10
+1224,PRD1224,Produk_1224,Otomotif,171,Gudang B,Tersedia,2738937.06,2025-05-04
+1225,PRD1225,Produk_1225,Elektronik,257,Gudang B,Tersedia,3575153.82,2025-05-06
+1226,PRD1226,Produk_1226,Elektronik,101,Gudang B,Tersedia,2228692.01,2025-05-15
+1227,PRD1227,Produk_1227,Otomotif,208,Gudang B,Tersedia,145134.86,2025-05-11
+1228,PRD1228,Produk_1228,Peralatan Rumah Tangga,290,Gudang A,Segera Habis,2251848.11,2025-05-10
+1229,PRD1229,Produk_1229,Kesehatan,353,Gudang C,Tersedia,1489259.99,2025-05-08
+1230,PRD1230,Produk_1230,Elektronik,470,Gudang B,Habis,4648951.54,2025-05-09
+1231,PRD1231,Produk_1231,Kesehatan,285,Gudang B,Tersedia,631820.79,2025-05-12
+1232,PRD1232,Produk_1232,Elektronik,115,Gudang C,Tersedia,3265855.02,2025-05-05
+1233,PRD1233,Produk_1233,Pakaian,263,Gudang A,Tersedia,273071.63,2025-05-12
+1234,PRD1234,Produk_1234,Makanan & Minuman,149,Gudang C,Tersedia,2236390.48,2025-05-06
+1235,PRD1235,Produk_1235,Elektronik,299,Gudang C,Habis,2774357.64,2025-05-11
+1236,PRD1236,Produk_1236,Kesehatan,441,Gudang B,Tersedia,1496795.11,2025-05-04
+1237,PRD1237,Produk_1237,Pakaian,35,Gudang C,Tersedia,2280827.42,2025-05-05
+1238,PRD1238,Produk_1238,Elektronik,452,Gudang C,Habis,826133.43,2025-05-07
+1239,PRD1239,Produk_1239,Peralatan Rumah Tangga,332,Gudang B,Tersedia,1527578.01,2025-05-09
+1240,PRD1240,Produk_1240,Makanan & Minuman,476,Gudang B,Segera Habis,3109320.56,2025-05-10
+1241,PRD1241,Produk_1241,Elektronik,286,Gudang B,Tersedia,1515982.28,2025-05-11
+1242,PRD1242,Produk_1242,Pakaian,302,Gudang B,Tersedia,4499717.96,2025-05-13
+1243,PRD1243,Produk_1243,Peralatan Rumah Tangga,310,Gudang C,Tersedia,3145750.72,2025-05-06
+1244,PRD1244,Produk_1244,Otomotif,207,Gudang C,Tersedia,2198858.6,2025-05-14
+1245,PRD1245,Produk_1245,Pakaian,105,Gudang A,Tersedia,203397.11,2025-05-06
+1246,PRD1246,Produk_1246,Pakaian,445,Gudang A,Tersedia,2502746.19,2025-05-08
+1247,PRD1247,Produk_1247,Peralatan Rumah Tangga,157,Gudang C,Habis,3826233.45,2025-05-11
+1248,PRD1248,Produk_1248,Pakaian,120,Gudang A,Habis,1335132.41,2025-05-04
+1249,PRD1249,Produk_1249,Peralatan Rumah Tangga,54,Gudang C,Tersedia,4035800.11,2025-05-03
+1250,PRD1250,Produk_1250,Elektronik,399,Gudang A,Tersedia,1266515.76,2025-05-14
+1251,PRD1251,Produk_1251,Peralatan Rumah Tangga,11,Gudang B,Tersedia,4120494.48,2025-05-07
+1252,PRD1252,Produk_1252,Peralatan Rumah Tangga,144,Gudang A,Tersedia,435489.02,2025-05-05
+1253,PRD1253,Produk_1253,Makanan & Minuman,399,Gudang B,Tersedia,4332256.71,2025-05-02
+1254,PRD1254,Produk_1254,Peralatan Rumah Tangga,395,Gudang B,Tersedia,2500940.39,2025-05-02
+1255,PRD1255,Produk_1255,Peralatan Rumah Tangga,135,Gudang B,Tersedia,1489722.57,2025-05-11
+1256,PRD1256,Produk_1256,Otomotif,467,Gudang B,Tersedia,1332915.12,2025-05-06
+1257,PRD1257,Produk_1257,Elektronik,2,Gudang A,Segera Habis,2165732.69,2025-05-08
+1258,PRD1258,Produk_1258,Makanan & Minuman,143,Gudang C,Tersedia,4995257.0,2025-05-01
+1259,PRD1259,Produk_1259,Otomotif,29,Gudang B,Tersedia,1109433.69,2025-05-15
+1260,PRD1260,Produk_1260,Kesehatan,236,Gudang A,Tersedia,525051.08,2025-05-11
+1261,PRD1261,Produk_1261,Elektronik,278,Gudang B,Tersedia,2929325.49,2025-05-06
+1262,PRD1262,Produk_1262,Elektronik,347,Gudang A,Tersedia,2447826.91,2025-05-12
+1263,PRD1263,Produk_1263,Kesehatan,114,Gudang A,Tersedia,2625739.39,2025-05-02
+1264,PRD1264,Produk_1264,Peralatan Rumah Tangga,103,Gudang A,Habis,3338007.73,2025-05-02
+1265,PRD1265,Produk_1265,Otomotif,117,Gudang C,Tersedia,1343048.91,2025-05-07
+1266,PRD1266,Produk_1266,Pakaian,4,Gudang A,Tersedia,4554218.33,2025-05-10
+1267,PRD1267,Produk_1267,Makanan & Minuman,467,Gudang A,Segera Habis,2184003.61,2025-05-01
+1268,PRD1268,Produk_1268,Pakaian,359,Gudang C,Habis,654140.11,2025-05-06
+1269,PRD1269,Produk_1269,Kesehatan,247,Gudang C,Tersedia,3714070.8,2025-05-14
+1270,PRD1270,Produk_1270,Elektronik,363,Gudang A,Tersedia,3219090.72,2025-05-07
+1271,PRD1271,Produk_1271,Elektronik,320,Gudang C,Tersedia,1585559.58,2025-05-14
+1272,PRD1272,Produk_1272,Makanan & Minuman,120,Gudang B,Tersedia,3111378.43,2025-05-08
+1273,PRD1273,Produk_1273,Elektronik,285,Gudang B,Tersedia,1107111.16,2025-05-07
+1274,PRD1274,Produk_1274,Elektronik,148,Gudang C,Tersedia,2229748.4,2025-05-06
+1275,PRD1275,Produk_1275,Makanan & Minuman,83,Gudang C,Tersedia,4498068.49,2025-05-09
+1276,PRD1276,Produk_1276,Otomotif,453,Gudang A,Tersedia,676335.82,2025-05-13
+1277,PRD1277,Produk_1277,Otomotif,405,Gudang C,Tersedia,1939615.29,2025-05-03
+1278,PRD1278,Produk_1278,Makanan & Minuman,465,Gudang A,Tersedia,4107500.7,2025-05-11
+1279,PRD1279,Produk_1279,Kesehatan,455,Gudang B,Tersedia,4847759.59,2025-05-06
+1280,PRD1280,Produk_1280,Elektronik,230,Gudang C,Tersedia,2275091.42,2025-05-04
+1281,PRD1281,Produk_1281,Elektronik,287,Gudang A,Tersedia,2539928.1,2025-05-02
+1282,PRD1282,Produk_1282,Kesehatan,160,Gudang A,Tersedia,2865138.09,2025-05-01
+1283,PRD1283,Produk_1283,Otomotif,271,Gudang B,Tersedia,4662417.23,2025-05-12
+1284,PRD1284,Produk_1284,Peralatan Rumah Tangga,459,Gudang C,Tersedia,4292451.89,2025-05-12
+1285,PRD1285,Produk_1285,Peralatan Rumah Tangga,37,Gudang B,Tersedia,861299.61,2025-05-14
+1286,PRD1286,Produk_1286,Peralatan Rumah Tangga,499,Gudang A,Tersedia,2189421.51,2025-05-01
+1287,PRD1287,Produk_1287,Otomotif,225,Gudang A,Habis,2325362.14,2025-05-11
+1288,PRD1288,Produk_1288,Otomotif,141,Gudang C,Habis,3947589.6,2025-05-10
+1289,PRD1289,Produk_1289,Kesehatan,291,Gudang A,Tersedia,3018435.48,2025-05-03
+1290,PRD1290,Produk_1290,Elektronik,480,Gudang C,Tersedia,3274560.11,2025-05-04
+1291,PRD1291,Produk_1291,Kesehatan,150,Gudang B,Tersedia,4991017.54,2025-05-02
+1292,PRD1292,Produk_1292,Kesehatan,113,Gudang C,Tersedia,384050.62,2025-05-13
+1293,PRD1293,Produk_1293,Otomotif,236,Gudang C,Tersedia,1122819.02,2025-05-12
+1294,PRD1294,Produk_1294,Peralatan Rumah Tangga,65,Gudang A,Segera Habis,2045400.73,2025-05-11
+1295,PRD1295,Produk_1295,Pakaian,360,Gudang A,Tersedia,1745434.19,2025-05-11
+1296,PRD1296,Produk_1296,Elektronik,340,Gudang C,Tersedia,118011.35,2025-05-14
+1297,PRD1297,Produk_1297,Otomotif,257,Gudang A,Habis,467970.26,2025-05-11
+1298,PRD1298,Produk_1298,Peralatan Rumah Tangga,474,Gudang A,Segera Habis,3407956.92,2025-05-01
+1299,PRD1299,Produk_1299,Pakaian,248,Gudang A,Habis,4397829.07,2025-05-04
+1300,PRD1300,Produk_1300,Pakaian,456,Gudang C,Tersedia,2575992.79,2025-05-15
+1301,PRD1301,Produk_1301,Otomotif,448,Gudang A,Tersedia,2700563.49,2025-05-07
+1302,PRD1302,Produk_1302,Makanan & Minuman,330,Gudang C,Tersedia,1282916.23,2025-05-10
+1303,PRD1303,Produk_1303,Elektronik,322,Gudang A,Tersedia,3841703.05,2025-05-11
+1304,PRD1304,Produk_1304,Pakaian,179,Gudang B,Tersedia,3761454.99,2025-05-06
+1305,PRD1305,Produk_1305,Otomotif,189,Gudang A,Tersedia,2945944.79,2025-05-06
+1306,PRD1306,Produk_1306,Otomotif,406,Gudang A,Segera Habis,1071194.79,2025-05-11
+1307,PRD1307,Produk_1307,Peralatan Rumah Tangga,153,Gudang C,Tersedia,494120.91,2025-05-09
+1308,PRD1308,Produk_1308,Makanan & Minuman,195,Gudang C,Tersedia,330550.49,2025-05-14
+1309,PRD1309,Produk_1309,Elektronik,465,Gudang A,Tersedia,2967553.37,2025-05-15
+1310,PRD1310,Produk_1310,Kesehatan,310,Gudang B,Tersedia,4126926.24,2025-05-02
+1311,PRD1311,Produk_1311,Peralatan Rumah Tangga,261,Gudang A,Tersedia,4293068.85,2025-05-04
+1312,PRD1312,Produk_1312,Pakaian,418,Gudang A,Tersedia,2323474.15,2025-05-05
+1313,PRD1313,Produk_1313,Pakaian,405,Gudang B,Tersedia,3923513.78,2025-05-01
+1314,PRD1314,Produk_1314,Peralatan Rumah Tangga,426,Gudang C,Habis,4734932.18,2025-05-08
+1315,PRD1315,Produk_1315,Otomotif,142,Gudang A,Tersedia,1383098.86,2025-05-08
+1316,PRD1316,Produk_1316,Pakaian,341,Gudang C,Segera Habis,1995822.13,2025-05-06
+1317,PRD1317,Produk_1317,Makanan & Minuman,315,Gudang C,Tersedia,4658080.17,2025-05-12
+1318,PRD1318,Produk_1318,Elektronik,100,Gudang B,Tersedia,1697772.53,2025-05-05
+1319,PRD1319,Produk_1319,Makanan & Minuman,243,Gudang B,Tersedia,4570242.69,2025-05-08
+1320,PRD1320,Produk_1320,Pakaian,489,Gudang C,Tersedia,4905413.86,2025-05-03
+1321,PRD1321,Produk_1321,Kesehatan,11,Gudang A,Tersedia,3312435.54,2025-05-03
+1322,PRD1322,Produk_1322,Elektronik,238,Gudang C,Tersedia,4086282.54,2025-05-02
+1323,PRD1323,Produk_1323,Elektronik,48,Gudang A,Habis,3750232.37,2025-05-05
+1324,PRD1324,Produk_1324,Peralatan Rumah Tangga,41,Gudang A,Habis,3500675.95,2025-05-03
+1325,PRD1325,Produk_1325,Peralatan Rumah Tangga,165,Gudang B,Tersedia,1541586.05,2025-05-03
+1326,PRD1326,Produk_1326,Kesehatan,81,Gudang A,Habis,294900.75,2025-05-15
+1327,PRD1327,Produk_1327,Otomotif,428,Gudang A,Tersedia,1721828.15,2025-05-06
+1328,PRD1328,Produk_1328,Elektronik,290,Gudang C,Habis,3338010.57,2025-05-08
+1329,PRD1329,Produk_1329,Kesehatan,157,Gudang B,Tersedia,521620.7,2025-05-02
+1330,PRD1330,Produk_1330,Peralatan Rumah Tangga,215,Gudang A,Tersedia,69470.74,2025-05-04
+1331,PRD1331,Produk_1331,Peralatan Rumah Tangga,489,Gudang A,Habis,707064.94,2025-05-11
+1332,PRD1332,Produk_1332,Elektronik,157,Gudang B,Tersedia,3581522.27,2025-05-07
+1333,PRD1333,Produk_1333,Makanan & Minuman,461,Gudang C,Habis,4864240.57,2025-05-01
+1334,PRD1334,Produk_1334,Pakaian,133,Gudang B,Tersedia,4915492.85,2025-05-01
+1335,PRD1335,Produk_1335,Peralatan Rumah Tangga,66,Gudang B,Tersedia,2474955.95,2025-05-12
+1336,PRD1336,Produk_1336,Otomotif,335,Gudang A,Tersedia,4348067.98,2025-05-13
+1337,PRD1337,Produk_1337,Otomotif,6,Gudang A,Tersedia,3686764.01,2025-05-10
+1338,PRD1338,Produk_1338,Peralatan Rumah Tangga,435,Gudang C,Tersedia,2510190.78,2025-05-07
+1339,PRD1339,Produk_1339,Makanan & Minuman,13,Gudang A,Habis,2868075.06,2025-05-14
+1340,PRD1340,Produk_1340,Makanan & Minuman,72,Gudang A,Tersedia,694763.46,2025-05-07
+1341,PRD1341,Produk_1341,Kesehatan,398,Gudang B,Habis,4688930.69,2025-05-01
+1342,PRD1342,Produk_1342,Otomotif,404,Gudang A,Habis,1766129.56,2025-05-01
+1343,PRD1343,Produk_1343,Kesehatan,162,Gudang C,Tersedia,2236284.79,2025-05-04
+1344,PRD1344,Produk_1344,Otomotif,65,Gudang B,Habis,3361584.55,2025-05-05
+1345,PRD1345,Produk_1345,Pakaian,346,Gudang C,Segera Habis,1676173.33,2025-05-05
+1346,PRD1346,Produk_1346,Pakaian,129,Gudang B,Habis,1278753.21,2025-05-04
+1347,PRD1347,Produk_1347,Elektronik,418,Gudang A,Habis,3158936.47,2025-05-08
+1348,PRD1348,Produk_1348,Kesehatan,465,Gudang B,Segera Habis,134670.57,2025-05-07
+1349,PRD1349,Produk_1349,Peralatan Rumah Tangga,205,Gudang B,Tersedia,3606418.31,2025-05-09
+1350,PRD1350,Produk_1350,Kesehatan,275,Gudang A,Tersedia,2574976.62,2025-05-07
+1351,PRD1351,Produk_1351,Peralatan Rumah Tangga,465,Gudang A,Habis,3032711.12,2025-05-15
+1352,PRD1352,Produk_1352,Makanan & Minuman,255,Gudang C,Tersedia,3163081.99,2025-05-10
+1353,PRD1353,Produk_1353,Kesehatan,265,Gudang C,Tersedia,2639980.28,2025-05-01
+1354,PRD1354,Produk_1354,Makanan & Minuman,24,Gudang A,Tersedia,2916843.55,2025-05-13
+1355,PRD1355,Produk_1355,Pakaian,449,Gudang A,Habis,3422103.12,2025-05-14
+1356,PRD1356,Produk_1356,Pakaian,280,Gudang A,Tersedia,3768063.05,2025-05-07
+1357,PRD1357,Produk_1357,Elektronik,252,Gudang B,Segera Habis,3639987.43,2025-05-01
+1358,PRD1358,Produk_1358,Kesehatan,309,Gudang B,Tersedia,4349386.12,2025-05-07
+1359,PRD1359,Produk_1359,Makanan & Minuman,288,Gudang B,Tersedia,955322.73,2025-05-10
+1360,PRD1360,Produk_1360,Peralatan Rumah Tangga,163,Gudang A,Tersedia,2011728.37,2025-05-08
+1361,PRD1361,Produk_1361,Pakaian,94,Gudang C,Tersedia,4739502.37,2025-05-11
+1362,PRD1362,Produk_1362,Pakaian,269,Gudang A,Tersedia,1988986.97,2025-05-09
+1363,PRD1363,Produk_1363,Peralatan Rumah Tangga,320,Gudang B,Segera Habis,633101.68,2025-05-12
+1364,PRD1364,Produk_1364,Makanan & Minuman,109,Gudang B,Habis,2631971.18,2025-05-03
+1365,PRD1365,Produk_1365,Makanan & Minuman,335,Gudang A,Tersedia,556359.95,2025-05-15
+1366,PRD1366,Produk_1366,Kesehatan,309,Gudang A,Tersedia,1022237.66,2025-05-04
+1367,PRD1367,Produk_1367,Kesehatan,237,Gudang B,Habis,4991610.6,2025-05-04
+1368,PRD1368,Produk_1368,Otomotif,380,Gudang B,Segera Habis,2711399.57,2025-05-12
+1369,PRD1369,Produk_1369,Otomotif,435,Gudang B,Tersedia,1427451.36,2025-05-09
+1370,PRD1370,Produk_1370,Elektronik,386,Gudang A,Tersedia,4973927.02,2025-05-13
+1371,PRD1371,Produk_1371,Pakaian,482,Gudang B,Tersedia,4833129.0,2025-05-07
+1372,PRD1372,Produk_1372,Kesehatan,424,Gudang B,Habis,2209287.82,2025-05-03
+1373,PRD1373,Produk_1373,Makanan & Minuman,389,Gudang C,Tersedia,1309411.51,2025-05-10
+1374,PRD1374,Produk_1374,Peralatan Rumah Tangga,24,Gudang A,Tersedia,4193614.19,2025-05-05
+1375,PRD1375,Produk_1375,Makanan & Minuman,140,Gudang C,Tersedia,3580947.38,2025-05-07
+1376,PRD1376,Produk_1376,Pakaian,116,Gudang C,Habis,3437837.76,2025-05-08
+1377,PRD1377,Produk_1377,Otomotif,481,Gudang B,Tersedia,4466637.57,2025-05-01
+1378,PRD1378,Produk_1378,Makanan & Minuman,391,Gudang A,Tersedia,3450191.5,2025-05-12
+1379,PRD1379,Produk_1379,Elektronik,404,Gudang B,Tersedia,1426151.74,2025-05-02
+1380,PRD1380,Produk_1380,Pakaian,481,Gudang A,Tersedia,3472377.18,2025-05-07
+1381,PRD1381,Produk_1381,Otomotif,451,Gudang C,Tersedia,1536009.42,2025-05-11
+1382,PRD1382,Produk_1382,Peralatan Rumah Tangga,24,Gudang A,Habis,3798602.51,2025-05-15
+1383,PRD1383,Produk_1383,Otomotif,78,Gudang B,Habis,3102541.79,2025-05-13
+1384,PRD1384,Produk_1384,Elektronik,67,Gudang B,Habis,396283.64,2025-05-14
+1385,PRD1385,Produk_1385,Pakaian,172,Gudang B,Habis,2569048.46,2025-05-13
+1386,PRD1386,Produk_1386,Peralatan Rumah Tangga,443,Gudang A,Tersedia,1723071.84,2025-05-15
+1387,PRD1387,Produk_1387,Elektronik,11,Gudang C,Habis,1649567.46,2025-05-02
+1388,PRD1388,Produk_1388,Otomotif,287,Gudang C,Tersedia,3015258.95,2025-05-07
+1389,PRD1389,Produk_1389,Elektronik,127,Gudang A,Tersedia,1618400.87,2025-05-15
+1390,PRD1390,Produk_1390,Pakaian,95,Gudang B,Segera Habis,3886699.8,2025-05-09
+1391,PRD1391,Produk_1391,Kesehatan,91,Gudang C,Tersedia,363249.27,2025-05-11
+1392,PRD1392,Produk_1392,Elektronik,140,Gudang B,Tersedia,3305337.38,2025-05-02
+1393,PRD1393,Produk_1393,Elektronik,30,Gudang A,Tersedia,4047882.07,2025-05-07
+1394,PRD1394,Produk_1394,Otomotif,333,Gudang B,Tersedia,3367430.13,2025-05-04
+1395,PRD1395,Produk_1395,Otomotif,19,Gudang C,Tersedia,2491173.68,2025-05-11
+1396,PRD1396,Produk_1396,Peralatan Rumah Tangga,145,Gudang C,Habis,4752032.0,2025-05-13
+1397,PRD1397,Produk_1397,Otomotif,476,Gudang B,Segera Habis,1506693.06,2025-05-02
+1398,PRD1398,Produk_1398,Makanan & Minuman,315,Gudang A,Tersedia,105647.76,2025-05-13
+1399,PRD1399,Produk_1399,Pakaian,446,Gudang B,Tersedia,2165626.96,2025-05-07
+1400,PRD1400,Produk_1400,Pakaian,389,Gudang A,Tersedia,174729.56,2025-05-13
+1401,PRD1401,Produk_1401,Kesehatan,159,Gudang B,Habis,4770144.4,2025-05-05
+1402,PRD1402,Produk_1402,Kesehatan,348,Gudang C,Tersedia,1057491.05,2025-05-01
+1403,PRD1403,Produk_1403,Pakaian,42,Gudang A,Tersedia,3946745.85,2025-05-05
+1404,PRD1404,Produk_1404,Kesehatan,253,Gudang A,Tersedia,3875114.7,2025-05-12
+1405,PRD1405,Produk_1405,Peralatan Rumah Tangga,129,Gudang A,Tersedia,1096467.21,2025-05-12
+1406,PRD1406,Produk_1406,Otomotif,59,Gudang C,Tersedia,3109920.39,2025-05-03
+1407,PRD1407,Produk_1407,Pakaian,150,Gudang B,Habis,249914.05,2025-05-07
+1408,PRD1408,Produk_1408,Kesehatan,466,Gudang C,Tersedia,2423037.18,2025-05-06
+1409,PRD1409,Produk_1409,Pakaian,286,Gudang A,Tersedia,83089.17,2025-05-08
+1410,PRD1410,Produk_1410,Makanan & Minuman,498,Gudang B,Tersedia,4606507.96,2025-05-13
+1411,PRD1411,Produk_1411,Elektronik,4,Gudang C,Habis,4880669.26,2025-05-05
+1412,PRD1412,Produk_1412,Otomotif,466,Gudang A,Tersedia,1119191.01,2025-05-02
+1413,PRD1413,Produk_1413,Pakaian,417,Gudang A,Tersedia,1048449.11,2025-05-09
+1414,PRD1414,Produk_1414,Elektronik,265,Gudang C,Tersedia,3771063.68,2025-05-14
+1415,PRD1415,Produk_1415,Kesehatan,344,Gudang C,Tersedia,1274363.2,2025-05-11
+1416,PRD1416,Produk_1416,Elektronik,129,Gudang C,Habis,4476432.03,2025-05-08
+1417,PRD1417,Produk_1417,Otomotif,381,Gudang A,Tersedia,2873906.39,2025-05-06
+1418,PRD1418,Produk_1418,Pakaian,266,Gudang C,Segera Habis,1760380.34,2025-05-13
+1419,PRD1419,Produk_1419,Makanan & Minuman,177,Gudang A,Tersedia,4165141.79,2025-05-10
+1420,PRD1420,Produk_1420,Kesehatan,252,Gudang C,Habis,2472099.44,2025-05-07
+1421,PRD1421,Produk_1421,Pakaian,414,Gudang A,Tersedia,4559048.24,2025-05-09
+1422,PRD1422,Produk_1422,Otomotif,55,Gudang A,Habis,4640791.04,2025-05-07
+1423,PRD1423,Produk_1423,Kesehatan,462,Gudang B,Tersedia,835446.56,2025-05-03
+1424,PRD1424,Produk_1424,Peralatan Rumah Tangga,456,Gudang C,Tersedia,21593.8,2025-05-06
+1425,PRD1425,Produk_1425,Elektronik,470,Gudang C,Habis,4919815.39,2025-05-11
+1426,PRD1426,Produk_1426,Otomotif,82,Gudang A,Tersedia,4531626.31,2025-05-13
+1427,PRD1427,Produk_1427,Peralatan Rumah Tangga,392,Gudang A,Tersedia,286671.73,2025-05-11
+1428,PRD1428,Produk_1428,Pakaian,98,Gudang A,Tersedia,4166840.98,2025-05-07
+1429,PRD1429,Produk_1429,Makanan & Minuman,148,Gudang B,Tersedia,2294446.61,2025-05-02
+1430,PRD1430,Produk_1430,Kesehatan,328,Gudang B,Tersedia,1302218.41,2025-05-03
+1431,PRD1431,Produk_1431,Elektronik,155,Gudang A,Tersedia,4394945.15,2025-05-04
+1432,PRD1432,Produk_1432,Kesehatan,189,Gudang C,Tersedia,991369.49,2025-05-10
+1433,PRD1433,Produk_1433,Pakaian,493,Gudang C,Habis,4737027.0,2025-05-06
+1434,PRD1434,Produk_1434,Kesehatan,370,Gudang B,Tersedia,1036051.22,2025-05-01
+1435,PRD1435,Produk_1435,Elektronik,262,Gudang B,Habis,3072279.11,2025-05-09
+1436,PRD1436,Produk_1436,Pakaian,79,Gudang A,Segera Habis,1123200.81,2025-05-05
+1437,PRD1437,Produk_1437,Kesehatan,399,Gudang C,Tersedia,2732886.64,2025-05-13
+1438,PRD1438,Produk_1438,Makanan & Minuman,251,Gudang A,Tersedia,3423035.9,2025-05-12
+1439,PRD1439,Produk_1439,Otomotif,96,Gudang B,Tersedia,959237.37,2025-05-14
+1440,PRD1440,Produk_1440,Pakaian,259,Gudang C,Tersedia,2609220.06,2025-05-07
+1441,PRD1441,Produk_1441,Otomotif,259,Gudang C,Segera Habis,2350608.12,2025-05-09
+1442,PRD1442,Produk_1442,Pakaian,102,Gudang B,Tersedia,364476.73,2025-05-09
+1443,PRD1443,Produk_1443,Makanan & Minuman,39,Gudang A,Tersedia,4093356.01,2025-05-01
+1444,PRD1444,Produk_1444,Otomotif,272,Gudang A,Tersedia,1685055.18,2025-05-15
+1445,PRD1445,Produk_1445,Peralatan Rumah Tangga,100,Gudang C,Tersedia,2877165.17,2025-05-01
+1446,PRD1446,Produk_1446,Elektronik,358,Gudang B,Tersedia,2578773.33,2025-05-03
+1447,PRD1447,Produk_1447,Peralatan Rumah Tangga,379,Gudang C,Tersedia,2571169.92,2025-05-06
+1448,PRD1448,Produk_1448,Kesehatan,307,Gudang B,Segera Habis,545039.75,2025-05-02
+1449,PRD1449,Produk_1449,Makanan & Minuman,220,Gudang A,Tersedia,2123175.23,2025-05-10
+1450,PRD1450,Produk_1450,Peralatan Rumah Tangga,307,Gudang B,Tersedia,2267310.13,2025-05-12
+1451,PRD1451,Produk_1451,Pakaian,419,Gudang A,Habis,3670877.77,2025-05-11
+1452,PRD1452,Produk_1452,Kesehatan,123,Gudang B,Tersedia,4201693.97,2025-05-01
+1453,PRD1453,Produk_1453,Kesehatan,421,Gudang C,Segera Habis,2729461.57,2025-05-01
+1454,PRD1454,Produk_1454,Peralatan Rumah Tangga,230,Gudang A,Segera Habis,443046.94,2025-05-13
+1455,PRD1455,Produk_1455,Peralatan Rumah Tangga,177,Gudang C,Habis,1191878.86,2025-05-05
+1456,PRD1456,Produk_1456,Makanan & Minuman,62,Gudang C,Habis,833020.79,2025-05-04
+1457,PRD1457,Produk_1457,Elektronik,484,Gudang A,Tersedia,631829.17,2025-05-01
+1458,PRD1458,Produk_1458,Peralatan Rumah Tangga,115,Gudang A,Segera Habis,1835837.5,2025-05-04
+1459,PRD1459,Produk_1459,Peralatan Rumah Tangga,190,Gudang C,Tersedia,1154673.58,2025-05-03
+1460,PRD1460,Produk_1460,Otomotif,61,Gudang C,Habis,1099332.53,2025-05-02
+1461,PRD1461,Produk_1461,Pakaian,255,Gudang C,Segera Habis,282918.94,2025-05-09
+1462,PRD1462,Produk_1462,Otomotif,482,Gudang C,Segera Habis,98173.52,2025-05-14
+1463,PRD1463,Produk_1463,Otomotif,6,Gudang A,Habis,522813.53,2025-05-15
+1464,PRD1464,Produk_1464,Kesehatan,154,Gudang A,Tersedia,869265.42,2025-05-11
+1465,PRD1465,Produk_1465,Elektronik,91,Gudang C,Segera Habis,2160608.81,2025-05-01
+1466,PRD1466,Produk_1466,Pakaian,469,Gudang B,Tersedia,2557496.1,2025-05-07
+1467,PRD1467,Produk_1467,Makanan & Minuman,13,Gudang B,Segera Habis,711553.67,2025-05-14
+1468,PRD1468,Produk_1468,Makanan & Minuman,454,Gudang A,Tersedia,2129668.87,2025-05-13
+1469,PRD1469,Produk_1469,Peralatan Rumah Tangga,228,Gudang C,Tersedia,1715326.72,2025-05-04
+1470,PRD1470,Produk_1470,Peralatan Rumah Tangga,85,Gudang C,Tersedia,925283.98,2025-05-05
+1471,PRD1471,Produk_1471,Makanan & Minuman,132,Gudang A,Tersedia,44135.33,2025-05-10
+1472,PRD1472,Produk_1472,Peralatan Rumah Tangga,182,Gudang B,Habis,2340419.15,2025-05-05
+1473,PRD1473,Produk_1473,Elektronik,385,Gudang B,Tersedia,3431402.23,2025-05-01
+1474,PRD1474,Produk_1474,Otomotif,61,Gudang B,Tersedia,1139123.9,2025-05-06
+1475,PRD1475,Produk_1475,Peralatan Rumah Tangga,218,Gudang A,Tersedia,667716.08,2025-05-13
+1476,PRD1476,Produk_1476,Kesehatan,404,Gudang B,Habis,4436343.29,2025-05-09
+1477,PRD1477,Produk_1477,Peralatan Rumah Tangga,245,Gudang A,Tersedia,1382373.61,2025-05-02
+1478,PRD1478,Produk_1478,Pakaian,229,Gudang A,Tersedia,1125826.97,2025-05-07
+1479,PRD1479,Produk_1479,Elektronik,78,Gudang C,Tersedia,4286913.73,2025-05-06
+1480,PRD1480,Produk_1480,Pakaian,148,Gudang B,Tersedia,4087364.42,2025-05-05
+1481,PRD1481,Produk_1481,Pakaian,137,Gudang A,Tersedia,2247248.89,2025-05-04
+1482,PRD1482,Produk_1482,Kesehatan,470,Gudang B,Tersedia,2451301.92,2025-05-04
+1483,PRD1483,Produk_1483,Elektronik,313,Gudang B,Tersedia,1096566.04,2025-05-06
+1484,PRD1484,Produk_1484,Elektronik,375,Gudang C,Segera Habis,400725.34,2025-05-04
+1485,PRD1485,Produk_1485,Elektronik,422,Gudang B,Habis,2871424.81,2025-05-05
+1486,PRD1486,Produk_1486,Elektronik,388,Gudang C,Tersedia,500741.16,2025-05-13
+1487,PRD1487,Produk_1487,Elektronik,64,Gudang A,Segera Habis,2251879.99,2025-05-06
+1488,PRD1488,Produk_1488,Kesehatan,12,Gudang B,Tersedia,4703081.02,2025-05-05
+1489,PRD1489,Produk_1489,Peralatan Rumah Tangga,212,Gudang A,Tersedia,4764643.6,2025-05-07
+1490,PRD1490,Produk_1490,Pakaian,473,Gudang B,Tersedia,1204268.11,2025-05-09
+1491,PRD1491,Produk_1491,Elektronik,241,Gudang A,Tersedia,3124325.97,2025-05-10
+1492,PRD1492,Produk_1492,Peralatan Rumah Tangga,492,Gudang B,Tersedia,2375640.56,2025-05-07
+1493,PRD1493,Produk_1493,Peralatan Rumah Tangga,212,Gudang B,Tersedia,4379668.79,2025-05-07
+1494,PRD1494,Produk_1494,Pakaian,180,Gudang B,Tersedia,1364440.01,2025-05-04
+1495,PRD1495,Produk_1495,Kesehatan,337,Gudang B,Habis,28475.01,2025-05-01
+1496,PRD1496,Produk_1496,Makanan & Minuman,484,Gudang B,Tersedia,821180.42,2025-05-14
+1497,PRD1497,Produk_1497,Makanan & Minuman,172,Gudang B,Tersedia,1754118.78,2025-05-08
+1498,PRD1498,Produk_1498,Peralatan Rumah Tangga,159,Gudang B,Tersedia,1585448.44,2025-05-04
+1499,PRD1499,Produk_1499,Otomotif,163,Gudang B,Tersedia,3958900.97,2025-05-01
